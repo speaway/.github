@@ -29,12 +29,10 @@
 <table>
 <tr>
 <td align="center" width="50%">
-🧑‍🤝‍🧑
 <h3>🌍 Inclusive Community</h3>
 <p>We pledge to make participation in our community a <strong>harassment-free experience</strong> for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.</p>
 </td>
 <td align="center" width="50%">
-💘
 <h3>❤️ Positive Environment</h3>
 <p>We are committed to acting and interacting in ways that contribute to an <strong>open, welcoming, diverse, inclusive, and healthy community</strong>. Every voice matters and every contribution is valued in our shared mission to create amazing Minecraft experiences.</p>
 </td>
@@ -58,7 +56,6 @@
 <td width="50%">
 
 <div align="center">
-🟢
 <h3>🟢 Encouraged Actions</h3>
 </div>
 
@@ -79,7 +76,6 @@
 <td width="50%">
 
 <div align="center">
-🔴
 <h3>🔴 Unacceptable Behavior</h3>
 </div>
 
@@ -113,7 +109,6 @@
 <table>
 <tr>
 <td align="center" width="25%">
-🛡️
 <h3>🛡️ Protection</h3>
 <p><strong>Community safety is our priority</strong></p>
 <ul align="left">
@@ -124,7 +119,6 @@
 </ul>
 </td>
 <td align="center" width="25%">
-⚖️
 <h3>⚖️ Fairness</h3>
 <p><strong>Equal treatment for everyone</strong></p>
 <ul align="left">
@@ -135,7 +129,6 @@
 </ul>
 </td>
 <td align="center" width="25%">
-📝
 <h3>📝 Transparency</h3>
 <p><strong>Open enforcement process</strong></p>
 <ul align="left">
@@ -146,7 +139,6 @@
 </ul>
 </td>
 <td align="center" width="25%">
-💚
 <h3>💚 Growth</h3>
 <p><strong>Learning and improvement focus</strong></p>
 <ul align="left">
@@ -182,8 +174,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 </tr>
 <tr>
 <td align="center">
-🟡
-<br><b>🟡 Level 1</b>
+<b>🟡 Level 1</b>
 <br><i>Minor Issues</i>
 </td>
 <td>
@@ -203,14 +194,11 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <td align="center">
 <b>⏰ Immediate</b>
 <br><i>Educational focus</i>
-<br>
-📚
 </td>
 </tr>
 <tr>
 <td align="center">
-🟠
-<br><b>🟠 Level 2</b>
+<b>🟠 Level 2</b>
 <br><i>Moderate Issues</i>
 </td>
 <td>
@@ -230,14 +218,11 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <td align="center">
 <b>🕐 1-7 Days</b>
 <br><i>Corrective action</i>
-<br>
-⚠️
 </td>
 </tr>
 <tr>
 <td align="center">
-🔴
-<br><b>🔴 Level 3</b>
+<b>🔴 Level 3</b>
 <br><i>Serious Issues</i>
 </td>
 <td>
@@ -257,14 +242,11 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <td align="center">
 <b>📅 1-30 Days</b>
 <br><i>Serious consequences</i>
-<br>
-🚫
 </td>
 </tr>
 <tr>
 <td align="center">
-⚫
-<br><b>⚫ Level 4</b>
+<b>⚫ Level 4</b>
 <br><i>Severe Issues</i>
 </td>
 <td>
@@ -284,8 +266,6 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <td align="center">
 <b>♾️ Permanent</b>
 <br><i>Final action</i>
-<br>
-❌
 </td>
 </tr>
 </table>
@@ -303,7 +283,6 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <table>
 <tr>
 <td align="center" width="33%">
-🌍
 <h3>🌍 Digital Spaces</h3>
 <p><strong>All our online platforms</strong></p>
 <ul align="left">
@@ -315,7 +294,6 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 </ul>
 </td>
 <td align="center" width="33%">
-🏢
 <h3>🏢 Professional Context</h3>
 <p><strong>Representing Speaway</strong></p>
 <ul align="left">
@@ -327,7 +305,6 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 </ul>
 </td>
 <td align="center" width="33%">
-🛡️
 <h3>🛡️ Protection Coverage</h3>
 <p><strong>Comprehensive safety net</strong></p>
 <ul align="left">
@@ -358,29 +335,25 @@ This Code of Conduct applies within all community spaces, and also applies when 
 <table>
 <tr>
 <td align="center" width="25%">
-📧
-<br><b>📧 Email Report</b>
+<b>📧 Email Report</b>
 <br><a href="mailto:conduct@speaway.com"><strong>conduct@speaway.com</strong></a>
 <br><i>Confidential & secure</i>
 <br><small>🔒 24-48 hour response</small>
 </td>
 <td align="center" width="25%">
-💬
-<br><b>💬 Discord DM</b>
+<b>💬 Discord DM</b>
 <br><strong>Contact any Admin</strong>
 <br><i>Real-time support</i>
 <br><small>⚡ Immediate response</small>
 </td>
 <td align="center" width="25%">
-📱
-<br><b>📞 Emergency Line</b>
+<b>📞 Emergency Line</b>
 <br><strong>For urgent situations</strong>
 <br><i>Serious violations only</i>
 <br><small>🚨 Available 24/7</small>
 </td>
 <td align="center" width="25%">
-📄
-<br><b>📝 Anonymous Form</b>
+<b>📝 Anonymous Form</b>
 <br><strong>Web-based reporting</strong>
 <br><i>Complete anonymity</i>
 <br><small>🤫 Identity protection</small>
@@ -394,7 +367,6 @@ This Code of Conduct applies within all community spaces, and also applies when 
 <tr>
 <td align="center" width="50%">
 <div align="center">
-👑
 <h3>👑 Leadership Team</h3>
 </div>
 
@@ -412,7 +384,6 @@ This Code of Conduct applies within all community spaces, and also applies when 
 </td>
 <td align="center" width="50%">
 <div align="center">
-💝
 <h3>💝 Support Resources</h3>
 </div>
 
@@ -444,22 +415,19 @@ This Code of Conduct applies within all community spaces, and also applies when 
 <table>
 <tr>
 <td align="center" width="33%">
-✨
-<br><b>✨ Positive Culture</b>
+<b>✨ Positive Culture</b>
 <br><strong>Celebrating Excellence</strong>
 <br><i>Recognizing great contributions</i>
 <br><small>🏆 Achievement celebrations</small>
 </td>
 <td align="center" width="33%">
-💚
-<br><b>💚 Continuous Learning</b>
+<b>💚 Continuous Learning</b>
 <br><strong>Educational Approach</strong>
 <br><i>Growth through understanding</i>
 <br><small>📚 Learning opportunities</small>
 </td>
 <td align="center" width="33%">
-🤝
-<br><b>🤝 Collaborative Spirit</b>
+<b>🤝 Collaborative Spirit</b>
 <br><strong>Working Together</strong>
 <br><i>Shared goals and values</i>
 <br><small>🌟 United community</small>

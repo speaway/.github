@@ -58,23 +58,19 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      ⚙️
-      <br><b>Services</b>
+      <b>⚙️ Services</b>
       <br><i>Complete Portfolio</i>
     </td>
     <td align="center" width="25%">
-      📦
-      <br><b>Projects</b>
+      <b>📦 Projects</b>
       <br><i>Open Source</i>
     </td>
     <td align="center" width="25%">
-      🤝
-      <br><b>Community</b>
+      <b>🤝 Community</b>
       <br><i>Contributing</i>
     </td>
     <td align="center" width="25%">
-      📞
-      <br><b>Support</b>
+      <b>📞 Support</b>
       <br><i>24/7 Available</i>
     </td>
   </tr>
