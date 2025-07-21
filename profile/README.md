@@ -1,12 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# 🎮 Speaway Organization
 
-**Here are some ideas to get you started:**
+**Professional Minecraft Solutions & Open Source Development**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Website](https://img.shields.io/badge/Website-speaway.com-blue?style=for-the-badge)](https://speaway.com)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.speaway.com)
+[![Email](https://img.shields.io/badge/Support-support@speaway.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@speaway.com)
+
+*Level Up Your Server With Custom Worlds & Designs*
+
+</div>
+
+---
+
+## 📖 Complete Organization Guide
+
+For detailed information about our organization, services, projects, and contribution guidelines, please visit our comprehensive guide:
+
+### 🔗 [📋 **Organization Guide**](../ORGANIZATION_GUIDE.md)
+
+This guide includes:
+- 🌟 About Us & Mission
+- ⚡ Our Services & Solutions
+- 📦 Open Source Projects
+- 🤝 Community & Contributing
+- 📞 Contact & Support
+- 🎉 Special Offers
+
+---
+
+<div align="center">
+
+**Professional Minecraft Solutions Since 2022**
+
+*Made with ❤️ by Speaway Team*
+
+</div>

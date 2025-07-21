@@ -1,25 +1,25 @@
-# 🤝 Katkıda Bulunma Rehberi
+# 🤝 Contributing Guide
 
-Speaway organizasyonuna katkıda bulunmak istediğiniz için teşekkür ederiz! Bu rehber, projelerimize nasıl katkıda bulunabileceğinizi açıklar.
+Thank you for your interest in contributing to the Speaway organization! This guide explains how you can contribute to our projects.
 
-## 📋 Katkı Türleri
+## 📋 Types of Contributions
 
 ### 🐛 Bug Reports
-- Detaylı açıklama yapın
-- Repro adımlarını belirtin
-- System bilgilerini ekleyin
-- Screenshots/logs ekleyin
+- Provide detailed descriptions
+- Specify reproduction steps
+- Include system information
+- Add screenshots/logs
 
 ### 💡 Feature Requests
-- Use case açıklaması yapın
-- Alternatif çözümler önerin
-- Implementation fikirlerinizi paylaşın
+- Provide use case descriptions
+- Suggest alternative solutions
+- Share your implementation ideas
 
 ### 🔧 Code Contributions
 - Fork & clone repository
-- Feature branch oluşturun
-- Clean commits yapın
-- Pull request açın
+- Create feature branch
+- Make clean commits
+- Open pull request
 
 ## 🎯 Development Standards
 
@@ -46,8 +46,8 @@ Fixes #issue_number
 4. Push branch: `git push origin feature/amazing-feature`
 5. Open Pull Request
 
-## 📞 İletişim
+## 📞 Contact
 
-Sorularınız için:
+For questions:
 - Discord: [discord.speaway.com](https://discord.speaway.com)
 - Email: support@speaway.com
