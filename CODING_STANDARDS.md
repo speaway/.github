@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Epic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=💻%20CODING%20STANDARDS&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Excellence%20in%20Every%20Line%20of%20Code&descAlignY=60&descAlign=center&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=💻%20CODING%20STANDARDS&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Excellence%20in%20Every%20Line%20of%20Code&amp;descAlignY=60&amp;descAlign=center&amp;descSize=22"/>
 
 <!-- Epic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF85&size=32&center=true&vCenter=true&width=900&lines=🚧+Currently+Under+Active+Development;⚡+Building+World-Class+Standards;💎+Excellence+in+Progress;🔥+Amazing+Guidelines+Coming+Soon;🌟+Your+Input+Shapes+Our+Future!" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF85&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=🚧+Currently+Under+Active+Development;⚡+Building+World-Class+Standards;💎+Excellence+in+Progress;🔥+Amazing+Guidelines+Coming+Soon;🌟+Your+Input+Shapes+Our+Future!" alt="Typing Animation"/>
 
 <br><br>
 
@@ -21,7 +21,7 @@
 ## 🚧 Development Status
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=⚡%20Active%20Development%20in%20Progress&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=70&amp;section=header&amp;text=⚡%20Active%20Development%20in%20Progress&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -80,7 +80,7 @@
 ## 🌟 What's Being Developed
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=70&section=header&text=🎯%20Comprehensive%20Standards%20Framework&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=11,6,20&amp;height=70&amp;section=header&amp;text=🎯%20Comprehensive%20Standards%20Framework&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -94,7 +94,7 @@
 <br><h3>☕ Java</h3>
 <p><strong>Enterprise-grade standards</strong></p>
 <div align="center">
-<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge&amp;logo=java"/>
 </div>
 <ul align="left">
 <li>🎯 Google Java Style Guide adoption</li>
@@ -109,7 +109,7 @@
 <br><h3>🟨 JavaScript</h3>
 <p><strong>Modern ES6+ practices</strong></p>
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge&amp;logo=javascript"/>
 </div>
 <ul align="left">
 <li>✨ ESLint + Prettier configuration</li>
@@ -124,7 +124,7 @@
 <br><h3>🔷 TypeScript</h3>
 <p><strong>Type-safe development</strong></p>
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Research-purple?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Status-Research-purple?style=for-the-badge&amp;logo=typescript"/>
 </div>
 <ul align="left">
 <li>🔒 Strict type checking rules</li>
@@ -139,7 +139,7 @@
 <br><h3>🐍 Python</h3>
 <p><strong>Pythonic excellence</strong></p>
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Planned-green?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Status-Planned-green?style=for-the-badge&amp;logo=python"/>
 </div>
 <ul align="left">
 <li>📏 PEP 8 compliance standards</li>
@@ -154,7 +154,7 @@
 <br><h3>⚙️ Config</h3>
 <p><strong>Configuration standards</strong></p>
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Draft-yellow?style=for-the-badge&logo=yaml"/>
+<img src="https://img.shields.io/badge/Status-Draft-yellow?style=for-the-badge&amp;logo=yaml"/>
 </div>
 <ul align="left">
 <li>📋 YAML/JSON formatting rules</li>
@@ -172,7 +172,7 @@
 ## 🎯 Development Roadmap
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=70&section=header&text=🗺️%20Our%20Development%20Journey&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,11,6&amp;height=70&amp;section=header&amp;text=🗺️%20Our%20Development%20Journey&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -310,7 +310,7 @@
 ## 🤝 How You Can Contribute
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=70&section=header&text=💫%20Shape%20Our%20Standards%20Together&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,20,11&amp;height=70&amp;section=header&amp;text=💫%20Shape%20Our%20Standards%20Together&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -328,7 +328,7 @@
 <li>📋 Fill out our feedback forms</li>
 </ul>
 <div align="center">
-<a href="https://discord.speaway.com"><img src="https://img.shields.io/badge/Join_Discussion-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.speaway.com"><img src="https://img.shields.io/badge/Join_Discussion-Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a>
 </div>
 </td>
 <td align="center" width="25%">
@@ -342,7 +342,7 @@
 <li>🔍 Review and improve content</li>
 </ul>
 <div align="center">
-<a href="mailto:standards@speaway.com"><img src="https://img.shields.io/badge/Contribute_Content-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:standards@speaway.com"><img src="https://img.shields.io/badge/Contribute_Content-Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 </div>
 </td>
 <td align="center" width="25%">
@@ -356,7 +356,7 @@
 <li>💡 Suggest improvements</li>
 </ul>
 <div align="center">
-<img src="https://img.shields.io/badge/Beta_Program-Coming_Soon-yellow?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Beta_Program-Coming_Soon-yellow?style=for-the-badge&amp;logo=flask"/>
 </div>
 </td>
 <td align="center" width="25%">
@@ -370,7 +370,7 @@
 <li>🔄 Integrate with CI/CD</li>
 </ul>
 <div align="center">
-<img src="https://img.shields.io/badge/Tool_Development-Open-success?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Tool_Development-Open-success?style=for-the-badge&amp;logo=github"/>
 </div>
 </td>
 </tr>
@@ -382,7 +382,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=70&section=header&text=🔔%20Never%20Miss%20an%20Update&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=11,6,20&amp;height=70&amp;section=header&amp;text=🔔%20Never%20Miss%20an%20Update&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <br><br>
 
@@ -394,8 +394,8 @@
 <br><strong>Get instant updates</strong>
 <br><i>Never miss important changes</i>
 <br><br>
-<a href="https://discord.speaway.com"><img src="https://img.shields.io/badge/Discord_Notifications-Enable-5865F2?style=for-the-badge&logo=discord"/></a>
-<br><a href="https://github.com/speaway"><img src="https://img.shields.io/badge/GitHub_Watch-Subscribe-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://discord.speaway.com"><img src="https://img.shields.io/badge/Discord_Notifications-Enable-5865F2?style=for-the-badge&amp;logo=discord"/></a>
+<br><a href="https://github.com/speaway"><img src="https://img.shields.io/badge/GitHub_Watch-Subscribe-181717?style=for-the-badge&amp;logo=github"/></a>
 </td>
 <td align="center" width="33%">
 <img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png"/>
@@ -403,7 +403,7 @@
 <br><strong>Monthly progress updates</strong>
 <br><i>Detailed development reports</i>
 <br><br>
-<a href="mailto:newsletter@speaway.com?subject=Subscribe%20to%20Standards%20Updates"><img src="https://img.shields.io/badge/Subscribe_Newsletter-Email-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="mailto:newsletter@speaway.com?subject=Subscribe%20to%20Standards%20Updates"><img src="https://img.shields.io/badge/Subscribe_Newsletter-Email-EA4335?style=for-the-badge&amp;logo=gmail"/></a>
 <br><small>🌟 Developer-focused content</small>
 </td>
 <td align="center" width="33%">
@@ -412,7 +412,7 @@
 <br><strong>Real-time development tracking</strong>
 <br><i>Visual progress indicators</i>
 <br><br>
-<img src="https://img.shields.io/badge/Dashboard-Coming_Soon-orange?style=for-the-badge&logo=grafana"/>
+<img src="https://img.shields.io/badge/Dashboard-Coming_Soon-orange?style=for-the-badge&amp;logo=grafana"/>
 <br><small>⚡ Live milestone tracking</small>
 </td>
 </tr>
@@ -452,7 +452,7 @@
 <div align="center">
 
 <!-- Epic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=🚀%20Crafting%20Excellence%20Together!%20Your%20Input%20Shapes%20Our%20Standards&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=160&amp;section=footer&amp;text=🚀%20Crafting%20Excellence%20Together!%20Your%20Input%20Shapes%20Our%20Standards&amp;fontSize=24&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75"/>
 
 <br>
 
@@ -468,8 +468,8 @@
 
 <br>
 
-<a href="https://speaway.com"><img src="https://img.shields.io/badge/Learn_More-speaway.com-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/></a>
-<a href="https://discord.speaway.com"><img src="https://img.shields.io/badge/Join_Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:standards@speaway.com"><img src="https://img.shields.io/badge/Contact_Team-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://speaway.com"><img src="https://img.shields.io/badge/Learn_More-speaway.com-FF6B6B?style=for-the-badge&amp;logo=web&amp;logoColor=white"/></a>
+<a href="https://discord.speaway.com"><img src="https://img.shields.io/badge/Join_Community-Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a>
+<a href="mailto:standards@speaway.com"><img src="https://img.shields.io/badge/Contact_Team-Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 
 </div>
