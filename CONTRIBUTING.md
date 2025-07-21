@@ -255,8 +255,7 @@ git push origin feature/amazing-new-feature
 <table>
 <tr>
 <td align="center" width="33%">
-☕
-<br><h3>☕ Java Excellence</h3>
+<h3>☕ Java Excellence</h3>
 <p><strong>Google Java Style Guide</strong></p>
 <ul align="left">
 <li>🎯 4 spaces indentation</li>
@@ -266,8 +265,7 @@ git push origin feature/amazing-new-feature
 </ul>
 </td>
 <td align="center" width="33%">
-🟡
-<br><h3>🟨 JavaScript/TypeScript</h3>
+<h3>🟨 JavaScript/TypeScript</h3>
 <p><strong>ESLint + Prettier</strong></p>
 <ul align="left">
 <li>✨ 2 spaces indentation</li>
@@ -277,8 +275,7 @@ git push origin feature/amazing-new-feature
 </ul>
 </td>
 <td align="center" width="33%">
-🐍
-<br><h3>🐍 Python Perfection</h3>
+<h3>🐍 Python Perfection</h3>
 <p><strong>PEP 8 Compliance</strong></p>
 <ul align="left">
 <li>🎯 4 spaces indentation</li>
@@ -359,19 +356,19 @@ type(scope): brief description
 <table>
 <tr>
 <td align="center" width="33%">
-<br><b>💬 Discord Community</b>
+<b>💬 Discord Community</b>
 <br><a href="https://discord.speaway.com"><strong>Join Our Server</strong></a>
 <br><i>Real-time help & discussions</i>
 <br><small>🌟 24/7 community support</small>
 </td>
 <td align="center" width="33%">
-<br><b>✉️ Direct Email</b>
+<b>✉️ Direct Email</b>
 <br><a href="mailto:support@speaway.com"><strong>support@speaway.com</strong></a>
 <br><i>Professional development support</i>
 <br><small>💎 Expert guidance available</small>
 </td>
 <td align="center" width="33%">
-<br><b>📚 GitHub Discussions</b>
+<b>📚 GitHub Discussions</b>
 <br><strong>Project-specific Help</strong>
 <br><i>Technical discussions & Q&A</i>
 <br><small>🚀 Collaborative problem-solving</small>
@@ -384,19 +381,19 @@ type(scope): brief description
 <table>
 <tr>
 <td align="center" width="25%">
-<br><b>🏆 Hall of Fame</b>
+<b>🏆 Hall of Fame</b>
 <br><i>Featured in our README</i>
 </td>
 <td align="center" width="25%">
-<br><b>👑 VIP Discord Role</b>
+<b>👑 VIP Discord Role</b>
 <br><i>Exclusive contributor channel</i>
 </td>
 <td align="center" width="25%">
-<br><b>🎁 Special Rewards</b>
+<b>🎁 Special Rewards</b>
 <br><i>Exclusive contributor perks</i>
 </td>
 <td align="center" width="25%">
-<br><b>🏅 Achievement Badges</b>
+<b>🏅 Achievement Badges</b>
 <br><i>Show off your contributions</i>
 </td>
 </tr>

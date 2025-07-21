@@ -37,7 +37,6 @@
 <table>
 <tr>
 <td align="center" width="50%">
-🎮
 </td>
 <td align="left" width="50%">
 <h3>🎯 Our Mission</h3>
@@ -61,25 +60,21 @@
 <img src="https://img.shields.io/badge/🏆%20200+-FFD700?style=for-the-badge&labelColor=000000&color=FFD700&logoColor=white"/>
 <br><b>🌟 Happy Customers</b>
 <br><i>Satisfied clients worldwide</i>
-<br>🤩
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🎫%2010,000+-4169E1?style=for-the-badge&labelColor=000000&color=4169E1&logoColor=white"/>
 <br><b>🚀 Resolved Tickets</b>
 <br><i>Support requests handled</i>
-<br>🚀
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/⭐%2096%25-32CD32?style=for-the-badge&labelColor=000000&color=32CD32&logoColor=white"/>
 <br><b>💎 Satisfaction Rate</b>
 <br><i>Customer happiness</i>
-<br>💎
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/⚡%20Since%202022-8A2BE2?style=for-the-badge&labelColor=000000&color=8A2BE2&logoColor=white"/>
 <br><b>🔥 Active Service</b>
 <br><i>Years of excellence</i>
-<br>🔥
 </td>
 </tr>
 </table>
@@ -206,7 +201,6 @@
 <table>
 <tr>
 <td align="center" width="33%">
-🛠️
 <h3>🔧 Developer Tools</h3>
 <p><strong>Professional utility tools and libraries for Minecraft developers</strong></p>
 <ul align="left">
@@ -217,7 +211,6 @@
 </ul>
 </td>
 <td align="center" width="33%">
-📚
 <h3>📚 Documentation</h3>
 <p><strong>Comprehensive guides and documentation projects</strong></p>
 <ul align="left">
@@ -228,7 +221,6 @@
 </ul>
 </td>
 <td align="center" width="33%">
-🎮
 <h3>🎮 Sample Plugins</h3>
 <p><strong>Educational sample plugins and starter templates</strong></p>
 <ul align="left">
@@ -253,23 +245,19 @@
 <table>
 <tr>
 <td align="center" width="25%">
-🐛
-<br><b>🐛 Issues & Bugs</b>
+<b>🐛 Issues & Bugs</b>
 <br><i>Help us identify and fix problems</i>
 </td>
 <td align="center" width="25%">
-🔀
-<br><b>🔀 Pull Requests</b>
+<b>🔀 Pull Requests</b>
 <br><i>Contribute amazing code improvements</i>
 </td>
 <td align="center" width="25%">
-📝
-<br><b>📝 Documentation</b>
+<b>📝 Documentation</b>
 <br><i>Help improve our guides & tutorials</i>
 </td>
 <td align="center" width="25%">
-🧪
-<br><b>🧪 Testing</b>
+<b>🧪 Testing</b>
 <br><i>Beta testing & valuable feedback</i>
 </td>
 </tr>
@@ -321,26 +309,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-🌐
-<br><b>🌐 Website</b>
+<b>🌐 Website</b>
 <br><a href="https://speaway.com"><strong>speaway.com</strong></a>
 <br><i>Explore our complete portfolio</i>
 </td>
 <td align="center" width="25%">
-💬
-<br><b>💬 Discord</b>
+<b>💬 Discord</b>
 <br><a href="https://discord.speaway.com"><strong>Community Server</strong></a>
 <br><i>Join our vibrant community</i>
 </td>
 <td align="center" width="25%">
-📧
-<br><b>✉️ Email</b>
+<b>✉️ Email</b>
 <br><a href="mailto:support@speaway.com"><strong>support@speaway.com</strong></a>
 <br><i>Direct professional support</i>
 </td>
 <td align="center" width="25%">
-🎫
-<br><b>🎫 Support Tickets</b>
+<b>🎫 Support Tickets</b>
 <br><strong>Dashboard System</strong>
 <br><i>Priority support channel</i>
 </td>
@@ -369,15 +353,13 @@
 <table>
 <tr>
 <td align="center" width="50%">
-🎁
-<br><b>🎁 New Customer Campaign</b>
+<b>🎁 New Customer Campaign</b>
 <br><img src="https://img.shields.io/badge/Use%20Code-WELCOME20-FF6B6B?style=for-the-badge&labelColor=000000&color=FF6B6B&logoColor=white"/>
 <br><i><strong>Get 20% off your first project!</strong></i>
 <br><small>🌟 Perfect for trying our premium services</small>
 </td>
 <td align="center" width="50%">
-🤝
-<br><b>🤝 Playnoc Partnership</b>
+<b>🤝 Playnoc Partnership</b>
 <br><img src="https://img.shields.io/badge/Use%20Code-SPEAWAY10-4ECDC4?style=for-the-badge&labelColor=000000&color=4ECDC4&logoColor=white"/>
 <br><i><strong>Special 10% discount for Playnoc customers</strong></i>
 <br><small>💎 Exclusive partnership benefits</small>
