@@ -26,9 +26,12 @@
 
 <br>
 
-<!-- GitHub Stats Integration -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=speaway&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF&border_radius=15"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=speaway&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<!-- Organization Achievement Stats -->
+<img width="49%" src="https://img.shields.io/badge/🏆_Organization_Founded-2022-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+<img width="49%" src="https://img.shields.io/badge/⭐_Happy_Clients-200+-FFD700?style=for-the-badge&labelColor=0D1117&color=FFD700"/>
+
+<img width="49%" src="https://img.shields.io/badge/🚀_Projects_Completed-150+-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B"/>
+<img width="49%" src="https://img.shields.io/badge/💎_Success_Rate-96%25-32CD32?style=for-the-badge&labelColor=0D1117&color=32CD32"/>
 
 </div>
 

@@ -4,7 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=💻%20CODING%20STANDARDS&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Excellence%20in%20Every%20Line%20of%20Code&amp;descAlignY=60&amp;descAlign=center&amp;descSize=22"/>
 
 <!-- Epic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF85&amp;size=32&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=🚧+Currently+Under+Active+Development;⚡+Building+World-Class+Standards;💎+Excellence+in+Progress;🔥+Amazing+Guidelines+Coming+Soon;🌟+Your+Input+Shapes+Our+Future!" alt="Typing Animation"/>
+<div align="center">
+<img src="https://img.shields.io/badge/🚧_Status-Under_Active_Development-00FF85?style=for-the-badge&labelColor=0D1117&color=00FF85"/>
+<img src="https://img.shields.io/badge/⚡_Building-World_Class_Standards-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/badge/🌟_Community-Input_Shapes_Future-FFD700?style=for-the-badge&labelColor=0D1117&color=FFD700"/>
+</div>
 
 <br><br>
 
@@ -14,7 +18,7 @@
 <br>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 </div>
 
