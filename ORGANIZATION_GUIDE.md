@@ -1,6 +1,13 @@
 <div align="center">
 
-# 🎮 Speaway Organization
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🎮 SPEAWAY ORGANIZATION                   ║
+║                                                              ║
+║           Professional Minecraft Solutions & Development     ║
+║                      🚀 Since 2022 🚀                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 **Complete Organization Guide | Professional Minecraft Solutions**
 
@@ -8,7 +15,12 @@
 [![Discord](https://img.shields.io/badge/💬_Discord-Community-5865F2?style=for-the-badge&labelColor=000000&color=5865F2)](https://discord.speaway.com)
 [![Email](https://img.shields.io/badge/✉️_Email-Support-EA4335?style=for-the-badge&labelColor=000000&color=EA4335)](mailto:support@speaway.com)
 
-*Professional Minecraft Solutions Since 2022*
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🎯 Level Up Your Server With Custom Worlds & Designs      │
+│  ⚡ Professional Solutions for Minecraft Server Owners     │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -34,30 +46,48 @@
 ### 📊 Our Achievements
 
 <div align="center">
+
+```
+┌─────────────────┬─────────────────┬─────────────────┬─────────────────┐
+│   🏆 200+       │   🎫 10,000+    │   ⭐ 96%        │   ⚡ Since 2022  │
+│ Happy Customers │ Resolved Tickets│ Satisfaction    │ Active Service  │
+│ Satisfied       │ Support requests│ Customer        │ Years of        │
+│ clients         │ handled         │ happiness       │ experience      │
+│ worldwide       │                 │                 │                 │
+└─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+```
+
+**Our Numbers Speak For Themselves**
+
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏆-200+-FFD700?style=for-the-badge&labelColor=000000&color=FFD700"/>
-<br><b>Happy Customers</b>
+<h1>🏆</h1>
+<h2>200+</h2>
+<b>Happy Customers</b>
 <br><i>Satisfied clients worldwide</i>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎫-10,000+-4169E1?style=for-the-badge&labelColor=000000&color=4169E1"/>
-<br><b>Resolved Tickets</b>
+<h1>🎫</h1>
+<h2>10,000+</h2>
+<b>Resolved Tickets</b>
 <br><i>Support requests handled</i>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/⭐-96%-32CD32?style=for-the-badge&labelColor=000000&color=32CD32"/>
-<br><b>Satisfaction Rate</b>
+<h1>⭐</h1>
+<h2>96%</h2>
+<b>Satisfaction Rate</b>
 <br><i>Customer happiness</i>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡-Since_2022-8A2BE2?style=for-the-badge&labelColor=000000&color=8A2BE2"/>
-<br><b>Active Service</b>
+<h1>⚡</h1>
+<h2>Since 2022</h2>
+<b>Active Service</b>
 <br><i>Years of experience</i>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
