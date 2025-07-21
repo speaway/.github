@@ -1,116 +1,299 @@
 <div align="center">
 
-# 🎮 Speaway Organization
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Speaway%20Organization&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Complete%20Organization%20Guide%20%7C%20Professional%20Minecraft%20Solutions&descAlignY=55&descAlign=center"/>
 
-**Professional Minecraft Solutions & Open Source Development**
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=28&center=true&vCenter=true&width=800&lines=🎮+Professional+Minecraft+Solutions;🚀+Custom+Plugins+%26+Maps;⚡+Server+Optimization+%26+Security;🌟+Open+Source+Development;💎+Since+2022+-+200%2B+Happy+Customers" alt="Typing Animation"/>
 
-[![Website](https://img.shields.io/badge/Website-speaway.com-blue?style=for-the-badge)](https://speaway.com)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.speaway.com)
-[![Email](https://img.shields.io/badge/Support-support@speaway.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@speaway.com)
+<br><br>
 
-*Level Up Your Server With Custom Worlds & Designs*
+<!-- Premium Badges -->
+<a href="https://speaway.com">
+  <img src="https://img.shields.io/badge/🌐_Website-speaway.com-4285F4?style=for-the-badge&labelColor=000000&color=4285F4"/>
+</a>
+<a href="https://discord.speaway.com">
+  <img src="https://img.shields.io/badge/💬_Discord-Community-5865F2?style=for-the-badge&labelColor=000000&color=5865F2"/>
+</a>
+<a href="mailto:support@speaway.com">
+  <img src="https://img.shields.io/badge/✉️_Email-Support-EA4335?style=for-the-badge&labelColor=000000&color=EA4335"/>
+</a>
+
+<br><br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
 
----
-
 ## 🌟 About Us
 
-Speaway is an organization that has been providing professional solutions in the Minecraft ecosystem since 2022. We develop custom plugins, maps, server optimizations, and security solutions for all Minecraft platforms except Bedrock Edition.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img height="120" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/120/external-minecraft-a-sandbox-video-game-developed-by-mojang-logo-duo-tal-revivo.png"/>
+</td>
+<td align="left" width="50%">
+<h3>🎯 Our Mission</h3>
+<p><i>To elevate the gaming experience by providing high-quality, customizable, and reliable solutions for Minecraft server owners and developers.</i></p>
+<p><b>Speaway</b> has been providing professional solutions in the Minecraft ecosystem since <b>2022</b>. We develop custom plugins, maps, server optimizations, and security solutions for all Minecraft platforms except Bedrock Edition.</p>
+</td>
+</tr>
+</table>
+</div>
 
-### 🎯 Our Mission
-To elevate the gaming experience by providing high-quality, customizable, and reliable solutions for Minecraft server owners and developers.
+<!-- Achievement Stats -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=📊%20Our%20Achievements&fontSize=24&fontColor=fff&fontAlignY=38"/>
 
-### 📊 Our Achievements
-- 🏆 **200+** Happy Customers
-- 🎫 **10,000+** Resolved Support Tickets
-- ⭐ **96%** Customer Satisfaction Rate
-- ⚡ **Active Service** Since 2022
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆-200+-FFD700?style=for-the-badge&labelColor=000000&color=FFD700"/>
+<br><b>Happy Customers</b>
+<br><i>Satisfied clients worldwide</i>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎫-10,000+-4169E1?style=for-the-badge&labelColor=000000&color=4169E1"/>
+<br><b>Resolved Tickets</b>
+<br><i>Support requests handled</i>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⭐-96%-32CD32?style=for-the-badge&labelColor=000000&color=32CD32"/>
+<br><b>Satisfaction Rate</b>
+<br><i>Customer happiness</i>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡-Since_2022-8A2BE2?style=for-the-badge&labelColor=000000&color=8A2BE2"/>
+<br><b>Active Service</b>
+<br><i>Years of experience</i>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
 
 ---
 
 ## ⚡ Our Services
 
+<div align="center">
+
 ### 🔌 Plugin Development
-- **Custom Plugin Packages** - Plugins tailored to your needs
-- **Nexo Pro, Translate Pro, Friends Pro, Vote Pro** - Our popular plugin solutions
-- **API Integrations** - Connecting with external systems
-- **Performance Optimization** - High-performance code architecture
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-code-programming-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Custom Plugins</b>
+<br><i>Tailored solutions</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-plugin-computer-network-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Popular Solutions</b>
+<br><i>Nexo Pro, Vote Pro</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-api-programming-tal-revivo-duo-tal-revivo.png"/>
+<br><b>API Integration</b>
+<br><i>External systems</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-performance-computer-network-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Performance</b>
+<br><i>Optimized code</i>
+</td>
+</tr>
+</table>
 
 ### 🗺️ Map Design
-- **High-Quality Maps** - Professional design standards
-- **Custom Worlds** - Unique concepts and themes
-- **Spawn Areas** - Impressive entrance experiences
-- **Mini-game Maps** - Customized for various game types
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-world-map-geography-tal-revivo-duo-tal-revivo.png"/>
+<br><b>High-Quality Maps</b>
+<br><i>Professional standards</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-world-geography-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Custom Worlds</b>
+<br><i>Unique concepts</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-spawn-gaming-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Spawn Areas</b>
+<br><i>Impressive entrances</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-game-gaming-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Mini-games</b>
+<br><i>Custom maps</i>
+</td>
+</tr>
+</table>
 
 ### 🛡️ Server Management
-- **Server Setup** - Professional installation and configuration
-- **Performance Optimization** - Fine-tuning for maximum efficiency
-- **Security Solutions** - Anti-cheat and protection systems
-- **Network Configuration** - BungeeCord and Velocity configurations
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-server-computer-network-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Server Setup</b>
+<br><i>Professional config</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-optimization-seo-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Optimization</b>
+<br><i>Maximum efficiency</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-security-computer-security-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Security</b>
+<br><i>Anti-cheat systems</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-network-computer-network-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Network Config</b>
+<br><i>BungeeCord/Velocity</i>
+</td>
+</tr>
+</table>
 
 ### 🎨 Design Services
-- **Logo Design** - Custom logos for your brand
-- **Discord Bot Development** - Advanced Discord integrations
-- **Web Design** - Modern and functional websites
-- **Brand Identity** - Consistent visual identity solutions
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-logo-design-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Logo Design</b>
+<br><i>Custom branding</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-discord-social-media-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Discord Bots</b>
+<br><i>Advanced integration</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-web-design-web-design-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Web Design</b>
+<br><i>Modern websites</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-brand-marketing-tal-revivo-duo-tal-revivo.png"/>
+<br><b>Brand Identity</b>
+<br><i>Visual consistency</i>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 📦 Our Open Source Projects
 
-In this organization, you can find open source projects in the following categories:
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🔧%20Developer%20Tools%20%7C%20📚%20Documentation%20%7C%20🎮%20Sample%20Plugins&fontSize=20&fontColor=fff&fontAlignY=38"/>
+</div>
 
-### 🔧 Developer Tools
-Utility tools and libraries for Minecraft developers
-- Configuration managers
-- Database wrappers
-- API utilities
-
-### 📚 Documentation
-Comprehensive guides and documentation projects
-- Plugin development guides
-- Server optimization manuals
-- Best practice examples
-
-### 🎮 Sample Plugins
-Educational sample plugins and starter templates
-- Beginner-friendly examples
-- Advanced implementation samples
-- Architecture patterns
+<table>
+<tr>
+<td align="center" width="33%">
+<img height="80" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/external-tools-construction-tal-revivo-duo-tal-revivo.png"/>
+<h3>🔧 Developer Tools</h3>
+<p>Utility tools and libraries for Minecraft developers</p>
+<ul align="left">
+<li>Configuration managers</li>
+<li>Database wrappers</li>
+<li>API utilities</li>
+</ul>
+</td>
+<td align="center" width="33%">
+<img height="80" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/external-documentation-file-tal-revivo-duo-tal-revivo.png"/>
+<h3>📚 Documentation</h3>
+<p>Comprehensive guides and documentation projects</p>
+<ul align="left">
+<li>Plugin development guides</li>
+<li>Server optimization manuals</li>
+<li>Best practice examples</li>
+</ul>
+</td>
+<td align="center" width="33%">
+<img height="80" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/external-sample-file-tal-revivo-duo-tal-revivo.png"/>
+<h3>🎮 Sample Plugins</h3>
+<p>Educational sample plugins and starter templates</p>
+<ul align="left">
+<li>Beginner-friendly examples</li>
+<li>Advanced implementations</li>
+<li>Architecture patterns</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Community & Contributing
 
-To join the Speaway community and contribute to our projects:
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=💡%20How%20You%20Can%20Contribute&fontSize=24&fontColor=fff&fontAlignY=38"/>
 
-### 💡 How You Can Contribute
-1. **Issues** - Bug reports and feature suggestions
-2. **Pull Requests** - Code contributions and improvements
-3. **Documentation** - Documentation updates
-4. **Testing** - Beta testing and feedback
-
-### 📋 Contribution Guidelines
-- Write clean and readable code
-- Keep your commit messages clear and concise
-- Provide detailed descriptions in issues
-- Follow community guidelines
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-bug-programming-tal-revivo-duo-tal-revivo.png"/>
+<br><b>🐛 Issues</b>
+<br><i>Bug reports & suggestions</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-pull-request-programming-tal-revivo-duo-tal-revivo.png"/>
+<br><b>🔀 Pull Requests</b>
+<br><i>Code contributions</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-documentation-file-tal-revivo-duo-tal-revivo.png"/>
+<br><b>📝 Documentation</b>
+<br><i>Updates & improvements</i>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-testing-programming-tal-revivo-duo-tal-revivo.png"/>
+<br><b>🧪 Testing</b>
+<br><i>Beta testing & feedback</i>
+</td>
+</tr>
+</table>
 
 ### 🔗 Developer Resources
-- [Coding Standards](https://github.com/speaway/.github/blob/main/CODING_STANDARDS.md)
-- [Contributing Guide](https://github.com/speaway/.github/blob/main/CONTRIBUTING.md)
-- [Code of Conduct](https://github.com/speaway/.github/blob/main/CODE_OF_CONDUCT.md)
+
+<a href="https://github.com/speaway/.github/blob/main/CODING_STANDARDS.md">
+  <img src="https://img.shields.io/badge/📋_Coding_Standards-Under_Development-FFA500?style=for-the-badge&labelColor=000000"/>
+</a>
+<a href="https://github.com/speaway/.github/blob/main/CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/🤝_Contributing_Guide-Available-32CD32?style=for-the-badge&labelColor=000000"/>
+</a>
+<a href="https://github.com/speaway/.github/blob/main/CODE_OF_CONDUCT.md">
+  <img src="https://img.shields.io/badge/📜_Code_of_Conduct-v1.0-4169E1?style=for-the-badge&labelColor=000000"/>
+</a>
+
+</div>
 
 ---
 
 ## 🌐 Our Clients
 
-Successful Minecraft servers that we serve with our reliable solutions:
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🌟%20Trusted%20by%20Successful%20Minecraft%20Servers&fontSize=22&fontColor=fff&fontAlignY=38"/>
 
-**Melonya** • **Provanas** • **KnightNW** • **RebornCraft** • **CraftLime** • **ChickenNW**
+<br>
+
+<img src="https://img.shields.io/badge/Melonya-Verified_Client-success?style=for-the-badge&labelColor=000000&logo=minecraft"/>
+<img src="https://img.shields.io/badge/Provanas-Verified_Client-success?style=for-the-badge&labelColor=000000&logo=minecraft"/>
+<img src="https://img.shields.io/badge/KnightNW-Verified_Client-success?style=for-the-badge&labelColor=000000&logo=minecraft"/>
+
+<img src="https://img.shields.io/badge/RebornCraft-Verified_Client-success?style=for-the-badge&labelColor=000000&logo=minecraft"/>
+<img src="https://img.shields.io/badge/CraftLime-Verified_Client-success?style=for-the-badge&labelColor=000000&logo=minecraft"/>
+<img src="https://img.shields.io/badge/ChickenNW-Verified_Client-success?style=for-the-badge&labelColor=000000&logo=minecraft"/>
 
 </div>
 
@@ -118,37 +301,76 @@ Successful Minecraft servers that we serve with our reliable solutions:
 
 ## 📞 Contact & Support
 
-### 🚀 Getting Started
-Have questions about our projects? You can reach us through the following channels:
+<div align="center">
 
-- 🌐 **Website**: [speaway.com](https://speaway.com)
-- 💬 **Discord**: [discord.speaway.com](https://discord.speaway.com)
-- ✉️ **Support Email**: support@speaway.com
-- 🎫 **Support System**: Create tickets through the dashboard
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-website-seo-tal-revivo-duo-tal-revivo.png"/>
+<br><b>🌐 Website</b>
+<br><a href="https://speaway.com">speaway.com</a>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-discord-social-media-tal-revivo-duo-tal-revivo.png"/>
+<br><b>💬 Discord</b>
+<br><a href="https://discord.speaway.com">Community Server</a>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-email-communication-tal-revivo-duo-tal-revivo.png"/>
+<br><b>✉️ Email</b>
+<br><a href="mailto:support@speaway.com">support@speaway.com</a>
+</td>
+<td align="center" width="25%">
+<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-ticket-customer-service-tal-revivo-duo-tal-revivo.png"/>
+<br><b>🎫 Tickets</b>
+<br>Dashboard System</td>
+</tr>
+</table>
 
 ### ⏰ Support Hours
-- **Ticket Response Time**: Within 24 hours
-- **Discord Support**: 24/7 community support
-- **Emergencies**: Priority support
+
+<img src="https://img.shields.io/badge/📞_Ticket_Response-Within_24h-4169E1?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💬_Discord_Support-24/7_Community-32CD32?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🚨_Emergencies-Priority_Support-FF4500?style=for-the-badge&labelColor=000000"/>
+
+</div>
 
 ---
 
 ## 🎉 Special Offers
 
-### 🎁 New Customer Campaign
-Use code `WELCOME20` for **20% off** your first project!
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=💰%20Limited%20Time%20Offers&fontSize=24&fontColor=fff&fontAlignY=38"/>
 
-### 🤝 Playnoc Partnership
-Special **10% discount** for Playnoc customers: `SPEAWAY10`
+<br><br>
 
----
+<table>
+<tr>
+<td align="center" width="50%">
+<img height="80" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/external-gift-celebration-tal-revivo-duo-tal-revivo.png"/>
+<br><b>🎁 New Customer Campaign</b>
+<br><img src="https://img.shields.io/badge/Use_Code-WELCOME20-FF6B6B?style=for-the-badge&labelColor=000000"/>
+<br><i>Get 20% off your first project!</i>
+</td>
+<td align="center" width="50%">
+<img height="80" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/external-partnership-business-tal-revivo-duo-tal-revivo.png"/>
+<br><b>🤝 Playnoc Partnership</b>
+<br><img src="https://img.shields.io/badge/Use_Code-SPEAWAY10-4ECDC4?style=for-the-badge&labelColor=000000"/>
+<br><i>Special 10% discount for Playnoc customers</i>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <div align="center">
 
-### ⭐ Repository'lerimizi beğenmeyi unutmayın!
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=⭐%20Don't%20forget%20to%20star%20our%20repositories!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
-*Professional Minecraft Solutions Since 2022*
-
-**Made with ❤️ by Speaway Team**
+<p><b>Professional Minecraft Solutions Since 2022</b></p>
+<p><i>Made with ❤️ by Speaway Team</i></p>
 
 </div>
