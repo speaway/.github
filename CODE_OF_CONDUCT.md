@@ -1,160 +1,100 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20of%20Conduct&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20a%20Safe%20and%20Welcoming%20Community&descAlignY=51&descAlign=center"/>
+<!-- Epic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=250&section=header&text=🛡️%20CODE%20OF%20CONDUCT&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20a%20Safe%20%26%20Inclusive%20Community%20Together&descAlignY=60&descAlign=center&descSize=22"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=28&center=true&vCenter=true&width=700&lines=🤝+Building+Inclusive+Community;🌟+Respect+and+Kindness;⚡+Safe+Space+for+Everyone;💎+Professional+Environment" alt="Typing Animation"/>
+<!-- Epic Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF6B6B&size=32&center=true&vCenter=true&width=900&lines=🌟+Creating+a+Welcoming+Environment;🤝+Respect+and+Kindness+First;💎+Professional+Excellence+Always;🛡️+Safe+Space+for+Everyone;🚀+Together+We+Build+Better+Software!" alt="Typing Animation"/>
 
 <br><br>
 
-<p><b>We are committed to making participation in our community a harassment-free experience for everyone.</b></p>
-<p><i>This Code of Conduct outlines our expectations and guidelines for community interaction.</i></p>
+<p><b>🎯 Our commitment to fostering an open and welcoming environment for everyone!</b></p>
+<p><i>This Code of Conduct outlines our shared values and expectations for community participation.</i></p>
 
 <br>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
 
-## 🎯 Our Pledge
+## 🌟 Our Pledge
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🌍%20Inclusive%20Community%20for%20All&fontSize=24&fontColor=fff&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=70&section=header&text=🤝%20United%20in%20Our%20Commitment&fontSize=24&fontColor=fff&fontAlignY=45"/>
+</div>
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-diversity-people-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🌈 Diversity</b>
-<br><i>All backgrounds welcome</i>
+<td align="center" width="50%">
+<img height="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png"/>
+<h3>🌍 Inclusive Community</h3>
+<p>We pledge to make participation in our community a <strong>harassment-free experience</strong> for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.</p>
 </td>
-<td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-respect-people-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🤝 Respect</b>
-<br><i>Mutual understanding</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-safety-security-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🛡️ Safety</b>
-<br><i>Harassment-free zone</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-growth-business-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📈 Growth</b>
-<br><i>Learning together</i>
+<td align="center" width="50%">
+<img height="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Arrow.png"/>
+<h3>❤️ Positive Environment</h3>
+<p>We are committed to acting and interacting in ways that contribute to an <strong>open, welcoming, diverse, inclusive, and healthy community</strong>. Every voice matters and every contribution is valued in our shared mission to create amazing Minecraft experiences.</p>
 </td>
 </tr>
 </table>
-</div>
-
-As members of the Speaway community, we pledge to make participation in our community a harassment-free experience for everyone, regardless of:
-
-- 🧑 Age, body size, disability, ethnicity
-- ⚧️ Gender identity and expression, level of experience
-- 🎓 Education, socio-economic status, nationality
-- 🌍 Personal appearance, race, religion
-- 🏳️‍🌈 Sexual identity and orientation
 
 ---
 
-## 🌟 Our Standards
+## ✨ Our Standards
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=✅%20Positive%20Behavior%20|%20❌%20Unacceptable%20Actions&fontSize=20&fontColor=fff&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=70&section=header&text=🏆%20Excellence%20in%20Every%20Interaction&fontSize=24&fontColor=fff&fontAlignY=45"/>
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### ✅ Examples of Positive Behavior
+### 🌟 Exemplary Behavior
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-empathy-people-tal-revivo-duo-tal-revivo.png"/>
-<br><b>💝 Empathy & Kindness</b>
-<br><i>Showing understanding</i>
-</td>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-respect-people-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🤝 Respectful Communication</b>
-<br><i>Valuing different perspectives</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-feedback-communication-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📝 Constructive Feedback</b>
-<br><i>Helping others improve</i>
-</td>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-responsibility-business-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🎯 Taking Responsibility</b>
-<br><i>Accepting mistakes gracefully</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-community-people-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🌟 Community Focus</b>
-<br><i>Prioritizing collective benefit</i>
-</td>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-help-people-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🤲 Helping Newcomers</b>
-<br><i>Supporting new members</i>
-</td>
-</tr>
-</table>
+<td width="50%">
+
+<div align="center">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Circle.png"/>
+<h3>🟢 Encouraged Actions</h3>
+</div>
+
+**💎 Professional Excellence:**
+- ✅ **Respectful Communication**: Using welcoming and inclusive language
+- ✅ **Constructive Feedback**: Being respectful of differing viewpoints and experiences  
+- ✅ **Graceful Learning**: Gracefully accepting constructive criticism
+- ✅ **Community Focus**: Focusing on what is best for the overall community
+- ✅ **Empathy First**: Showing empathy towards other community members
+
+**🚀 Technical Collaboration:**
+- ✅ **Knowledge Sharing**: Helping others learn and grow
+- ✅ **Code Quality**: Writing clean, documented, and maintainable code
+- ✅ **Best Practices**: Following established coding standards and conventions
+- ✅ **Mentorship**: Supporting newcomers and junior developers
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ❌ Unacceptable Behavior
+<div align="center">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Circle.png"/>
+<h3>🔴 Unacceptable Behavior</h3>
+</div>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-harassment-security-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🚫 Sexual Content</b>
-<br><i>Inappropriate language/imagery</i>
-</td>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-trolling-social-media-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🎭 Trolling & Insults</b>
-<br><i>Derogatory comments</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-attack-security-tal-revivo-duo-tal-revivo.png"/>
-<br><b>⚔️ Personal Attacks</b>
-<br><i>Political/personal harassment</i>
-</td>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-privacy-security-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📧 Privacy Violation</b>
-<br><i>Sharing private information</i>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-spam-communication-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📢 Spam & Ads</b>
-<br><i>Unwanted promotion</i>
-</td>
-<td align="center" width="50%">
-<img height="48" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/external-inappropriate-people-tal-revivo-duo-tal-revivo.png"/>
-<br><b>⚠️ Unprofessional Conduct</b>
-<br><i>Inappropriate behavior</i>
-</td>
-</tr>
-</table>
+**⛔ Prohibited Actions:**
+- ❌ **Harassment**: Trolling, insulting or derogatory comments, and personal attacks
+- ❌ **Discrimination**: Public or private harassment based on personal characteristics
+- ❌ **Privacy Violation**: Publishing others' private information without permission
+- ❌ **Professional Misconduct**: Other conduct which could reasonably be considered inappropriate
+- ❌ **Spam/Self-Promotion**: Excessive promotional content or spam
+
+**🚫 Technical Misconduct:**
+- ❌ **Malicious Code**: Submitting code intended to harm or exploit
+- ❌ **Plagiarism**: Copying code without proper attribution
+- ❌ **Sabotage**: Intentionally breaking builds or disrupting development
+- ❌ **Resource Abuse**: Wasting community resources or server capacity
 
 </td>
 </tr>
@@ -162,216 +102,400 @@ As members of the Speaway community, we pledge to make participation in our comm
 
 ---
 
-## 👥 Scope of Application
+## 🛡️ Enforcement Responsibilities
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=📍%20Where%20This%20Code%20Applies&fontSize=24&fontColor=fff&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=70&section=header&text=⚖️%20Fair%20and%20Consistent%20Enforcement&fontSize=24&fontColor=fff&fontAlignY=45"/>
+</div>
 
 <br>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-github-programming-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📚 GitHub</b>
-<br><i>Repositories, Issues, PRs</i>
+<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png"/>
+<h3>🛡️ Protection</h3>
+<p><strong>Community safety is our priority</strong></p>
+<ul align="left">
+<li>🔍 Monitor community interactions</li>
+<li>🚫 Remove inappropriate content</li>
+<li>⚡ Respond quickly to violations</li>
+<li>🛡️ Protect vulnerable members</li>
+</ul>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-discord-social-media-tal-revivo-duo-tal-revivo.png"/>
-<br><b>💬 Discord</b>
-<br><i>Community server</i>
+<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png"/>
+<h3>⚖️ Fairness</h3>
+<p><strong>Equal treatment for everyone</strong></p>
+<ul align="left">
+<li>📋 Clear violation standards</li>
+<li>🔍 Thorough investigation process</li>
+<li>⚖️ Proportional consequences</li>
+<li>📞 Appeal mechanism available</li>
+</ul>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-social-media-social-media-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📱 Social Media</b>
-<br><i>All our platforms</i>
+<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png"/>
+<h3>📝 Transparency</h3>
+<p><strong>Open enforcement process</strong></p>
+<ul align="left">
+<li>📖 Public enforcement guidelines</li>
+<li>🔔 Clear violation notifications</li>
+<li>📊 Regular community updates</li>
+<li>💬 Open feedback channels</li>
+</ul>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-representation-business-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🎪 Representation</b>
-<br><i>When representing Speaway</i>
+<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Growing%20Heart.png"/>
+<h3>💚 Growth</h3>
+<p><strong>Learning and improvement focus</strong></p>
+<ul align="left">
+<li>🌱 Educational approach first</li>
+<li>🤝 Restorative justice preferred</li>
+<li>📚 Learning resources provided</li>
+<li>🔄 Rehabilitation opportunities</li>
+</ul>
 </td>
 </tr>
 </table>
-</div>
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
 ---
 
-## 🛡️ Enforcement and Consequences
+## 📏 Enforcement Guidelines
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=⚖️%20Fair%20and%20Transparent%20Process&fontSize=24&fontColor=fff&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=🎯%20Progressive%20Enforcement%20System&fontSize=24&fontColor=fff&fontAlignY=45"/>
+</div>
 
 <br>
 
-### 📞 Reporting Channels
+### 📊 Violation Categories & Consequences
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-email-communication-tal-revivo-duo-tal-revivo.png"/>
-<br><b>✉️ Email</b>
-<br><a href="mailto:conduct@speaway.com"><code>conduct@speaway.com</code></a>
-<br><i>Primary contact</i>
+<th align="center" width="20%">🎚️ Level</th>
+<th align="center" width="30%">🔍 Violation Type</th>
+<th align="center" width="30%">⚡ Immediate Action</th>
+<th align="center" width="20%">⏱️ Duration</th>
+</tr>
+<tr>
+<td align="center">
+<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Yellow%20Circle.png"/>
+<br><b>🟡 Level 1</b>
+<br><i>Minor Issues</i>
 </td>
-<td align="center" width="33%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-discord-social-media-tal-revivo-duo-tal-revivo.png"/>
-<br><b>💬 Discord</b>
-<br>Direct message to moderators
-<br><i>Real-time reporting</i>
+<td>
+<b>📝 Examples:</b>
+<li>Unprofessional language</li>
+<li>Minor spam or off-topic posts</li>
+<li>Accidental rule violations</li>
+<li>Misunderstandings in communication</li>
 </td>
-<td align="center" width="33%">
-<img height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-github-programming-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📝 GitHub</b>
-<br>Contact maintainers
-<br><i>Project-specific issues</i>
+<td>
+<b>🎯 Response:</b>
+<li>Private warning message</li>
+<li>Educational resources provided</li>
+<li>Clarification of expectations</li>
+<li>No public consequences</li>
+</td>
+<td align="center">
+<b>⏰ Immediate</b>
+<br><i>Educational focus</i>
+<br>
+<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png"/>
 </td>
 </tr>
-</table>
-
-</div>
-
-### 📊 Consequence Levels
-
-<table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Level_1-Correction-yellow?style=for-the-badge&labelColor=000000"/>
-<br><b>💡 Correction</b>
-<br><i>Private written warning with explanation</i>
-<br><small>For inappropriate language or behavior</small>
+<td align="center">
+<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Circle.png"/>
+<br><b>🟠 Level 2</b>
+<br><i>Moderate Issues</i>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Level_2-Warning-orange?style=for-the-badge&labelColor=000000"/>
-<br><b>⚠️ Warning</b>
-<br><i>Formal warning with consequences outlined</i>
-<br><small>For single incidents or series of violations</small>
+<td>
+<b>⚠️ Examples:</b>
+<li>Persistent inappropriate behavior</li>
+<li>Disrespectful comments</li>
+<li>Ignoring community guidelines</li>
+<li>Repeated minor violations</li>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Level_3-Temp_Ban-red?style=for-the-badge&labelColor=000000"/>
-<br><b>⏸️ Temporary Ban</b>
-<br><i>Suspension from community interaction</i>
-<br><small>For serious violations or continued behavior</small>
+<td>
+<b>🚫 Response:</b>
+<li>Public warning issued</li>
+<li>Temporary interaction limits</li>
+<li>Required community service</li>
+<li>Mandatory guideline review</li>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Level_4-Permanent_Ban-darkred?style=for-the-badge&labelColor=000000"/>
-<br><b>🚫 Permanent Ban</b>
-<br><i>Complete removal from community</i>
-<br><small>For systematic violations or harassment</small>
+<td align="center">
+<b>🕐 1-7 Days</b>
+<br><i>Corrective action</i>
+<br>
+<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Warning.png"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Circle.png"/>
+<br><b>🔴 Level 3</b>
+<br><i>Serious Issues</i>
+</td>
+<td>
+<b>🚨 Examples:</b>
+<li>Harassment or bullying</li>
+<li>Hate speech or discrimination</li>
+<li>Doxxing or privacy violations</li>
+<li>Malicious code submissions</li>
+</td>
+<td>
+<b>⛔ Response:</b>
+<li>Immediate temporary ban</li>
+<li>Content removal</li>
+<li>Loss of privileges</li>
+<li>Required mediation session</li>
+</td>
+<td align="center">
+<b>📅 1-30 Days</b>
+<br><i>Serious consequences</i>
+<br>
+<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/No%20Entry.png"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Circle.png"/>
+<br><b>⚫ Level 4</b>
+<br><i>Severe Issues</i>
+</td>
+<td>
+<b>💥 Examples:</b>
+<li>Threats of violence</li>
+<li>Severe harassment campaigns</li>
+<li>Illegal activities</li>
+<li>Repeated serious violations</li>
+</td>
+<td>
+<b>🔨 Response:</b>
+<li>Immediate permanent ban</li>
+<li>Law enforcement referral</li>
+<li>Legal action if necessary</li>
+<li>Public safety announcement</li>
+</td>
+<td align="center">
+<b>♾️ Permanent</b>
+<br><i>Final action</i>
+<br>
+<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cross%20Mark.png"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎯 Resolution Process
+## 🌐 Scope & Application
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=📋%205-Step%20Resolution%20Process&fontSize=24&fontColor=fff&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=70&section=header&text=🗺️%20Community%20Reach%20%26%20Coverage&fontSize=24&fontColor=fff&fontAlignY=45"/>
+</div>
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img height="56" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/56/external-report-communication-tal-revivo-duo-tal-revivo.png"/>
-<br><b>1️⃣ Reporting</b>
-<br><i>Submit violation report</i>
+<td align="center" width="33%">
+<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Europe-Africa.png"/>
+<h3>🌍 Digital Spaces</h3>
+<p><strong>All our online platforms</strong></p>
+<ul align="left">
+<li>🐙 GitHub repositories & discussions</li>
+<li>💬 Discord community server</li>
+<li>🌐 Official website & forums</li>
+<li>📧 Email communications</li>
+<li>🐦 Social media channels</li>
+</ul>
 </td>
-<td align="center" width="20%">
-<img height="56" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/56/external-review-business-tal-revivo-duo-tal-revivo.png"/>
-<br><b>2️⃣ Review</b>
-<br><i>48h investigation</i>
+<td align="center" width="33%">
+<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png"/>
+<h3>🏢 Professional Context</h3>
+<p><strong>Representing Speaway</strong></p>
+<ul align="left">
+<li>🎪 Minecraft community events</li>
+<li>🎯 Conferences & meetups</li>
+<li>📝 Official communications</li>
+<li>🤝 Partner collaborations</li>
+<li>📺 Public presentations</li>
+</ul>
 </td>
-<td align="center" width="20%">
-<img height="56" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/56/external-decision-business-tal-revivo-duo-tal-revivo.png"/>
-<br><b>3️⃣ Decision</b>
-<br><i>Appropriate action determined</i>
-</td>
-<td align="center" width="20%">
-<img height="56" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/56/external-implementation-business-tal-revivo-duo-tal-revivo.png"/>
-<br><b>4️⃣ Implementation</b>
-<br><i>Action communicated & applied</i>
-</td>
-<td align="center" width="20%">
-<img height="56" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/56/external-follow-up-business-tal-revivo-duo-tal-revivo.png"/>
-<br><b>5️⃣ Follow-up</b>
-<br><i>Situation monitored</i>
+<td align="center" width="33%">
+<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png"/>
+<h3>🛡️ Protection Coverage</h3>
+<p><strong>Comprehensive safety net</strong></p>
+<ul align="left">
+<li>👥 All community members</li>
+<li>🎯 Contributors & maintainers</li>
+<li>🆕 New members & visitors</li>
+<li>🤝 Partner organizations</li>
+<li>🎪 Event participants</li>
+</ul>
 </td>
 </tr>
 </table>
 
-</div>
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
 
 ---
 
-## 📞 Contact Information
+## 📞 Reporting & Support
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=70&section=header&text=🚨%20Safe%20Reporting%20%26%20Swift%20Response&fontSize=24&fontColor=fff&fontAlignY=45"/>
+</div>
+
+<br>
+
+### 🛡️ How to Report Violations
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png"/>
+<br><b>📧 Email Report</b>
+<br><a href="mailto:conduct@speaway.com"><strong>conduct@speaway.com</strong></a>
+<br><i>Confidential & secure</i>
+<br><small>🔒 24-48 hour response</small>
+</td>
+<td align="center" width="25%">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png"/>
+<br><b>💬 Discord DM</b>
+<br><strong>Contact any Admin</strong>
+<br><i>Real-time support</i>
+<br><small>⚡ Immediate response</small>
+</td>
+<td align="center" width="25%">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png"/>
+<br><b>📞 Emergency Line</b>
+<br><strong>For urgent situations</strong>
+<br><i>Serious violations only</i>
+<br><small>🚨 Available 24/7</small>
+</td>
+<td align="center" width="25%">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png"/>
+<br><b>📝 Anonymous Form</b>
+<br><strong>Web-based reporting</strong>
+<br><i>Complete anonymity</i>
+<br><small>🤫 Identity protection</small>
+</td>
+</tr>
+</table>
+
+### 🤝 Support Team
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img height="80" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/external-primary-contact-communication-tal-revivo-duo-tal-revivo.png"/>
-<br><b>📧 Primary Contact</b>
-<br><a href="mailto:conduct@speaway.com">conduct@speaway.com</a>
-<br><i>Code of Conduct violations</i>
+<div align="center">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png"/>
+<h3>👑 Leadership Team</h3>
+</div>
+
+**🎯 Primary Contacts:**
+- **🔑 Community Manager**: community@speaway.com
+- **⚖️ Conduct Officer**: conduct@speaway.com  
+- **🛡️ Safety Coordinator**: safety@speaway.com
+- **💼 Executive Team**: leadership@speaway.com
+
+**📞 Response Time:**
+- 🚨 **Urgent**: Within 2 hours
+- ⚡ **Standard**: Within 24 hours  
+- 📋 **Non-urgent**: Within 48 hours
+
 </td>
 <td align="center" width="50%">
-<img height="80" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/80/external-secondary-contact-communication-tal-revivo-duo-tal-revivo.png"/>
-<br><b>🆘 Secondary Contact</b>
-<br><a href="mailto:support@speaway.com">support@speaway.com</a>
-<br><i>General support & questions</i>
+<div align="center">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Ribbon.png"/>
+<h3>💝 Support Resources</h3>
+</div>
+
+**🌟 Available Help:**
+- 🧠 **Mental Health Resources**: Professional guidance
+- 💬 **Peer Support Groups**: Community healing circles
+- 📚 **Educational Materials**: Conflict resolution guides
+- 🤝 **Mediation Services**: Neutral third-party assistance
+
+**🔒 Privacy Guarantee:**
+- 🤫 Complete confidentiality maintained
+- 🛡️ Reporter identity protection
+- 📊 Anonymous statistics only
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Building a Better Community
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=70&section=header&text=🚀%20Together%20We%20Grow%20Stronger&fontSize=24&fontColor=fff&fontAlignY=45"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png"/>
+<br><b>✨ Positive Culture</b>
+<br><strong>Celebrating Excellence</strong>
+<br><i>Recognizing great contributions</i>
+<br><small>🏆 Achievement celebrations</small>
+</td>
+<td align="center" width="33%">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Growing%20Heart.png"/>
+<br><b>💚 Continuous Learning</b>
+<br><strong>Educational Approach</strong>
+<br><i>Growth through understanding</i>
+<br><small>📚 Learning opportunities</small>
+</td>
+<td align="center" width="33%">
+<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png"/>
+<br><b>🤝 Collaborative Spirit</b>
+<br><strong>Working Together</strong>
+<br><i>Shared goals and values</i>
+<br><small>🌟 United community</small>
 </td>
 </tr>
 </table>
 
 <br>
 
-<a href="https://discord.speaway.com">
-  <img src="https://img.shields.io/badge/💬_Community_Discord-Join_Server-5865F2?style=for-the-badge&labelColor=000000&color=5865F2"/>
-</a>
+**🎯 Our Shared Vision:**
+
+*"We believe that every community member deserves to participate in a safe, welcoming, and productive environment. By following this Code of Conduct, we create a space where creativity flourishes, innovations emerge, and lasting friendships are formed. Together, we're building more than just software – we're building a community that makes the Minecraft world a better place for everyone."*
+
+<br>
+
+<!-- Epic Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=160&section=footer&text=🌟%20Thank%20You%20for%20Being%20Part%20of%20Our%20Community!&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+
+<br>
+
+<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Arrow.png"/> **Together, we create magic in the Minecraft universe!** <img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Arrow.png"/>
+
+<br>
+
+*This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1*
+<br>
+*Last updated: January 2025*
 
 </div>
 
 ---
 
-## 📚 Attribution & Version
+## 📚 Attribution
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=📜%20Based%20on%20Contributor%20Covenant%20v2.1&fontSize=22&fontColor=fff&fontAlignY=38"/>
+This Code of Conduct is adapted from the [**Contributor Covenant**](https://www.contributor-covenant.org/), version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
-<br>
+Community Impact Guidelines were inspired by [**Mozilla's code of conduct enforcement ladder**](https://github.com/mozilla/diversity).
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Source-Contributor_Covenant-4169E1?style=for-the-badge&labelColor=000000"/>
-<br><i>Adapted from industry standard</i>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Version-1.0-32CD32?style=for-the-badge&labelColor=000000"/>
-<br><i>Current version</i>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Updated-January_2025-FFD700?style=for-the-badge&labelColor=000000"/>
-<br><i>Last modified</i>
-</td>
-</tr>
-</table>
-
-<p><b>This code applies to all Speaway projects and platforms.</b></p>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=🤝%20Together%20We%20Build%20Better&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-
-<p><b>A respectful community creates amazing things together! 🌟</b></p>
-<p><i>Made with ❤️ by Speaway Team</i></p>
-
-</div>
+For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
