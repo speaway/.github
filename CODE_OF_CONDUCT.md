@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,6,11&amp;height=250&amp;section=header&amp;text=🛡️%20CODE%20OF%20CONDUCT&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Building%20a%20Safe%20%26%20Inclusive%20Community%20Together&amp;descAlignY=60&amp;descAlign=center&amp;descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,6,11&amp;height=250&amp;section=header&amp;text=🛡️%20CODE%20OF%20CONDUCT&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Building%20a%20Safe%20and%20Inclusive%20Community%20Together&amp;descAlignY=60&amp;descAlign=center&amp;descSize=22"/>
 
 <!-- Epic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?color=FF6B6B&size=32&center=true&vCenter=true&width=900&lines=🌟+Creating+a+Welcoming+Environment;🤝+Respect+and+Kindness+First;💎+Professional+Excellence+Always;🛡️+Safe+Space+for+Everyone;🚀+Together+We+Build+Better+Software!" alt="Typing Animation"/>
@@ -295,7 +295,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 ## 🌐 Scope & Application
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,11,6&amp;height=70&amp;section=header&amp;text=🗺️%20Community%20Reach%20%26%20Coverage&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,11,6&amp;height=70&amp;section=header&amp;text=🗺️%20Community%20Reach%20and%20Coverage&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -348,7 +348,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 ## 📞 Reporting & Support
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,20,11&amp;height=70&amp;section=header&amp;text=🚨%20Safe%20Reporting%20%26%20Swift%20Response&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,20,11&amp;height=70&amp;section=header&amp;text=🚨%20Safe%20Reporting%20and%20Swift%20Response&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>

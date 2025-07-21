@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=🎮%20SPEAWAY%20ORGANIZATION&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Professional%20Minecraft%20Solutions%20%26%20Open%20Source%20Development&amp;descAlignY=55&amp;descAlign=center"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=🎮%20SPEAWAY%20ORGANIZATION&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Professional%20Minecraft%20Solutions%20and%20Open%20Source%20Development&amp;descAlignY=55&amp;descAlign=center"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=32&center=true&vCenter=true&width=800&lines=🚀+Level+Up+Your+Server;💎+Custom+Worlds+%26+Designs;⚡+Professional+Minecraft+Solutions;🌟+Since+2022+-+Trusted+by+200%2B+Servers" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=32&center=true&vCenter=true&width=800&lines=🚀+Level+Up+Your+Server;💎+Custom+Worlds+and+Designs;⚡+Professional+Minecraft+Solutions;🌟+Since+2022+-+Trusted+by+200%2B+Servers" alt="Typing Animation"/>
 
 <br><br>
 

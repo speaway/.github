@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=280&amp;section=header&amp;text=🎮%20SPEAWAY%20ORGANIZATION&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Complete%20Organization%20Guide%20%7C%20Professional%20Minecraft%20Solutions&amp;descAlignY=65&amp;descAlign=center&amp;descSize=24"/>
 
 <!-- Advanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=32&center=true&vCenter=true&width=1000&lines=🎮+Professional+Minecraft+Solutions;🚀+Custom+Plugins+%26+Stunning+Maps;⚡+Server+Optimization+%26+Advanced+Security;🌟+Open+Source+Development+Excellence;💎+Since+2022+-+Trusted+by+200%2B+Happy+Customers;🔥+Level+Up+Your+Server+Today!" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=32&center=true&vCenter=true&width=1000&lines=🎮+Professional+Minecraft+Solutions;🚀+Custom+Plugins+and+Stunning+Maps;⚡+Server+Optimization+and+Advanced+Security;🌟+Open+Source+Development+Excellence;💎+Since+2022+-+Trusted+by+200%2B+Happy+Customers;🔥+Level+Up+Your+Server+Today!" alt="Typing Animation"/>
 
 <br><br>
 
