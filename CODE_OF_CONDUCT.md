@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=250&section=header&text=🛡️%20CODE%20OF%20CONDUCT&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20a%20Safe%20%26%20Inclusive%20Community%20Together&descAlignY=60&descAlign=center&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,6,11&amp;height=250&amp;section=header&amp;text=🛡️%20CODE%20OF%20CONDUCT&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Building%20a%20Safe%20%26%20Inclusive%20Community%20Together&amp;descAlignY=60&amp;descAlign=center&amp;descSize=22"/>
 
 <!-- Epic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?color=FF6B6B&size=32&center=true&vCenter=true&width=900&lines=🌟+Creating+a+Welcoming+Environment;🤝+Respect+and+Kindness+First;💎+Professional+Excellence+Always;🛡️+Safe+Space+for+Everyone;🚀+Together+We+Build+Better+Software!" alt="Typing Animation"/>
@@ -21,7 +21,7 @@
 ## 🌟 Our Pledge
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=70&section=header&text=🤝%20United%20in%20Our%20Commitment&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,6,11&amp;height=70&amp;section=header&amp;text=🤝%20United%20in%20Our%20Commitment&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -46,7 +46,7 @@
 ## ✨ Our Standards
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=70&section=header&text=🏆%20Excellence%20in%20Every%20Interaction&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,20,11&amp;height=70&amp;section=header&amp;text=🏆%20Excellence%20in%20Every%20Interaction&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -105,7 +105,7 @@
 ## 🛡️ Enforcement Responsibilities
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=70&section=header&text=⚖️%20Fair%20and%20Consistent%20Enforcement&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=11,6,20&amp;height=70&amp;section=header&amp;text=⚖️%20Fair%20and%20Consistent%20Enforcement&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -166,7 +166,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 ## 📏 Enforcement Guidelines
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=🎯%20Progressive%20Enforcement%20System&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=70&amp;section=header&amp;text=🎯%20Progressive%20Enforcement%20System&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -295,7 +295,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 ## 🌐 Scope & Application
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=70&section=header&text=🗺️%20Community%20Reach%20%26%20Coverage&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,11,6&amp;height=70&amp;section=header&amp;text=🗺️%20Community%20Reach%20%26%20Coverage&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -348,7 +348,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 ## 📞 Reporting & Support
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=70&section=header&text=🚨%20Safe%20Reporting%20%26%20Swift%20Response&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,20,11&amp;height=70&amp;section=header&amp;text=🚨%20Safe%20Reporting%20%26%20Swift%20Response&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -437,7 +437,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=70&section=header&text=🚀%20Together%20We%20Grow%20Stronger&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=11,20,6&amp;height=70&amp;section=header&amp;text=🚀%20Together%20We%20Grow%20Stronger&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <br><br>
 
@@ -476,7 +476,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 <br>
 
 <!-- Epic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=160&section=footer&text=🌟%20Thank%20You%20for%20Being%20Part%20of%20Our%20Community!&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,6,11&amp;height=160&amp;section=footer&amp;text=🌟%20Thank%20You%20for%20Being%20Part%20of%20Our%20Community!&amp;fontSize=26&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75"/>
 
 <br>
 

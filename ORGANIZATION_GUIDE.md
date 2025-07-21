@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=🎮%20SPEAWAY%20ORGANIZATION&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Complete%20Organization%20Guide%20%7C%20Professional%20Minecraft%20Solutions&descAlignY=65&descAlign=center&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=280&amp;section=header&amp;text=🎮%20SPEAWAY%20ORGANIZATION&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Complete%20Organization%20Guide%20%7C%20Professional%20Minecraft%20Solutions&amp;descAlignY=65&amp;descAlign=center&amp;descSize=24"/>
 
 <!-- Advanced Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=32&center=true&vCenter=true&width=1000&lines=🎮+Professional+Minecraft+Solutions;🚀+Custom+Plugins+%26+Stunning+Maps;⚡+Server+Optimization+%26+Advanced+Security;🌟+Open+Source+Development+Excellence;💎+Since+2022+-+Trusted+by+200%2B+Happy+Customers;🔥+Level+Up+Your+Server+Today!" alt="Typing Animation"/>
@@ -54,7 +54,7 @@
 <!-- Epic Achievement Stats -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=📊%20Our%20Outstanding%20Achievements&fontSize=28&fontColor=fff&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=80&amp;section=header&amp;text=📊%20Our%20Outstanding%20Achievements&amp;fontSize=28&amp;fontColor=fff&amp;fontAlignY=50"/>
 
 <br><br>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=🔌%20Plugin%20Development%20Excellence&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=70&amp;section=header&amp;text=🔌%20Plugin%20Development%20Excellence&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <table>
 <tr>
@@ -125,7 +125,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=70&section=header&text=🗺️%20Stunning%20Map%20Design%20Studio&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,11,6&amp;height=70&amp;section=header&amp;text=🗺️%20Stunning%20Map%20Design%20Studio&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <table>
 <tr>
@@ -154,7 +154,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=70&section=header&text=🛡️%20Advanced%20Server%20Management&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=11,6,20&amp;height=70&amp;section=header&amp;text=🛡️%20Advanced%20Server%20Management&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <table>
 <tr>
@@ -183,7 +183,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=70&section=header&text=🎨%20Creative%20Design%20Services&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,6,11&amp;height=70&amp;section=header&amp;text=🎨%20Creative%20Design%20Services&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <table>
 <tr>
@@ -217,7 +217,7 @@
 ## 📦 Our Open Source Excellence
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=🔧%20Developer%20Tools%20%7C%20📚%20Documentation%20%7C%20🎮%20Sample%20Plugins&fontSize=22&fontColor=fff&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=80&amp;section=header&amp;text=🔧%20Developer%20Tools%20%7C%20📚%20Documentation%20%7C%20🎮%20Sample%20Plugins&amp;fontSize=22&amp;fontColor=fff&amp;fontAlignY=50"/>
 </div>
 
 <br>
@@ -265,7 +265,7 @@
 ## 🤝 Vibrant Community & Contributing
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=💡%20How%20You%20Can%20Make%20a%20Difference&fontSize=26&fontColor=fff&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=80&amp;section=header&amp;text=💡%20How%20You%20Can%20Make%20a%20Difference&amp;fontSize=26&amp;fontColor=fff&amp;fontAlignY=50"/>
 
 <br><br>
 
@@ -315,7 +315,7 @@
 ## 🌐 Our Prestigious Clients
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=🌟%20Trusted%20by%20Successful%20Minecraft%20Servers%20Worldwide&fontSize=24&fontColor=fff&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=80&amp;section=header&amp;text=🌟%20Trusted%20by%20Successful%20Minecraft%20Servers%20Worldwide&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=50"/>
 
 <br><br>
 
@@ -381,7 +381,7 @@
 ## 🎉 Exclusive Special Offers
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=💰%20Limited%20Time%20Premium%20Offers&fontSize=26&fontColor=fff&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=80&amp;section=header&amp;text=💰%20Limited%20Time%20Premium%20Offers&amp;fontSize=26&amp;fontColor=fff&amp;fontAlignY=50"/>
 
 <br><br>
 
@@ -411,7 +411,7 @@
 <div align="center">
 
 <!-- Epic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=⭐%20Don't%20forget%20to%20star%20our%20repositories!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=160&amp;section=footer&amp;text=⭐%20Don't%20forget%20to%20star%20our%20repositories!&amp;fontSize=28&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75"/>
 
 <br>
 

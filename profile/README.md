@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🎮%20SPEAWAY%20ORGANIZATION&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Professional%20Minecraft%20Solutions%20%26%20Open%20Source%20Development&descAlignY=55&descAlign=center"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=🎮%20SPEAWAY%20ORGANIZATION&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Professional%20Minecraft%20Solutions%20%26%20Open%20Source%20Development&amp;descAlignY=55&amp;descAlign=center"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=32&center=true&vCenter=true&width=800&lines=🚀+Level+Up+Your+Server;💎+Custom+Worlds+%26+Designs;⚡+Professional+Minecraft+Solutions;🌟+Since+2022+-+Trusted+by+200%2B+Servers" alt="Typing Animation"/>
@@ -49,7 +49,7 @@
 <br>
 
 <!-- Call to Action Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=📖%20Complete%20Organization%20Guide&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=80&amp;section=header&amp;text=📖%20Complete%20Organization%20Guide&amp;fontSize=28&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=50"/>
 
 <br><br>
 
@@ -89,7 +89,7 @@
 <br><br>
 
 <!-- Trusted By Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=60&section=header&text=🌟%20Trusted%20by%20Successful%20Minecraft%20Servers&fontSize=20&fontColor=fff&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,11,6&amp;height=60&amp;section=header&amp;text=🌟%20Trusted%20by%20Successful%20Minecraft%20Servers&amp;fontSize=20&amp;fontColor=fff&amp;fontAlignY=35"/>
 
 <br>
 
@@ -101,6 +101,6 @@
 <img src="https://img.shields.io/badge/ChickenNW-Client-success?style=flat-square&labelColor=1a1a1a"/>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made%20with%20❤️%20by%20Speaway%20Team&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;text=Made%20with%20❤️%20by%20Speaway%20Team&amp;fontSize=24&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75"/>
 
 </div>

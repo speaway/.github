@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=🤝%20CONTRIBUTING%20GUIDE&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Help%20Us%20Build%20Amazing%20Minecraft%20Solutions%20Together&descAlignY=60&descAlign=center&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=250&amp;section=header&amp;text=🤝%20CONTRIBUTING%20GUIDE&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Help%20Us%20Build%20Amazing%20Minecraft%20Solutions%20Together&amp;descAlignY=60&amp;descAlign=center&amp;descSize=22"/>
 
 <!-- Epic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=30&center=true&vCenter=true&width=900&lines=🚀+Join+Our+Development+Community;💎+Contribute+to+Open+Source+Excellence;⚡+Make+Minecraft+Development+Better;🌟+Your+Code+Can+Change+Everything;🔥+Welcome+to+the+Speaway+Family!" alt="Typing Animation"/>
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=🌟%20Every%20Contribution%20Matters&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=70&amp;section=header&amp;text=🌟%20Every%20Contribution%20Matters&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <br><br>
 
@@ -82,7 +82,7 @@
 ## 🐛 Bug Reports
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=🔍%20Help%20Us%20Squash%20Those%20Bugs&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=70&amp;section=header&amp;text=🔍%20Help%20Us%20Squash%20Those%20Bugs&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -135,7 +135,7 @@ What actually happens
 ## 💡 Feature Requests
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=70&section=header&text=💭%20Share%20Your%20Brilliant%20Ideas&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=20,11,6&amp;height=70&amp;section=header&amp;text=💭%20Share%20Your%20Brilliant%20Ideas&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -183,7 +183,7 @@ Screenshots, mockups, examples
 ## 🔧 Code Contributions
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,6,20&height=70&section=header&text=💻%20Submit%20Your%20Amazing%20Code&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=11,6,20&amp;height=70&amp;section=header&amp;text=💻%20Submit%20Your%20Amazing%20Code&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -254,7 +254,7 @@ git push origin feature/amazing-new-feature
 ## 🎯 Development Standards
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=70&section=header&text=📏%20Code%20Quality%20Excellence&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,20,11&amp;height=70&amp;section=header&amp;text=📏%20Code%20Quality%20Excellence&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 </div>
 
 <br>
@@ -361,7 +361,7 @@ type(scope): brief description
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=🤝%20Join%20Our%20Amazing%20Community&fontSize=24&fontColor=fff&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=70&amp;section=header&amp;text=🤝%20Join%20Our%20Amazing%20Community&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=45"/>
 
 <br><br>
 
@@ -425,7 +425,7 @@ type(scope): brief description
 <div align="center">
 
 <!-- Epic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&text=🚀%20Ready%20to%20Make%20a%20Difference?%20Let's%20Code%20Together!&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=160&amp;section=footer&amp;text=🚀%20Ready%20to%20Make%20a%20Difference?%20Let's%20Code%20Together!&amp;fontSize=26&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=75"/>
 
 <br>
 
