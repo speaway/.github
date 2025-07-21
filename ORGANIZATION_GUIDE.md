@@ -263,19 +263,93 @@
 </tr>
 </table>
 
-### 🔗 Developer Resources
+### 📚 Developer Documentation Hub
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=11,20,6&amp;height=80&amp;section=header&amp;text=📖%20Complete%20Development%20Documentation%20Suite&amp;fontSize=24&amp;fontColor=fff&amp;fontAlignY=50"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>📋 Coding Standards</h3>
+<p><strong>Excellence in Every Line of Code</strong></p>
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Under_Development-FFA500?style=for-the-badge&labelColor=000000&logoColor=white"/>
+</div>
+<br>
+<ul align="left">
+<li>☕ Java Style Guide & Best Practices</li>
+<li>🟨 JavaScript/TypeScript Standards</li>
+<li>🐍 Python PEP 8 Compliance Rules</li>
+<li>⚙️ Configuration & Build Standards</li>
+<li>🧪 Testing Framework Guidelines</li>
+</ul>
+<div align="center">
+<a href="CODING_STANDARDS.md">
+<img src="https://img.shields.io/badge/📖%20View%20Standards-FFA500?style=for-the-badge&labelColor=000000&color=FFA500&logoColor=white"/>
+</a>
+</div>
+</td>
+<td align="center" width="33%">
+<h3>🤝 Contributing Guide</h3>
+<p><strong>Join Our Development Community</strong></p>
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Available-32CD32?style=for-the-badge&labelColor=000000&logoColor=white"/>
+</div>
+<br>
+<ul align="left">
+<li>🐛 Bug Report Guidelines</li>
+<li>💡 Feature Request Process</li>
+<li>🔧 Code Contribution Workflow</li>
+<li>📚 Documentation Improvements</li>
+<li>🌟 Community Recognition Program</li>
+</ul>
+<div align="center">
+<a href="CONTRIBUTING.md">
+<img src="https://img.shields.io/badge/🚀%20Start%20Contributing-32CD32?style=for-the-badge&labelColor=000000&color=32CD32&logoColor=white"/>
+</a>
+</div>
+</td>
+<td align="center" width="33%">
+<h3>🛡️ Code of Conduct</h3>
+<p><strong>Building Safe & Inclusive Community</strong></p>
+<div align="center">
+<img src="https://img.shields.io/badge/Version-v1.0-4169E1?style=for-the-badge&labelColor=000000&logoColor=white"/>
+</div>
+<br>
+<ul align="left">
+<li>🌍 Inclusive Community Pledge</li>
+<li>✨ Professional Standards</li>
+<li>⚖️ Enforcement Guidelines</li>
+<li>📞 Reporting & Support System</li>
+<li>🌟 Positive Culture Building</li>
+</ul>
+<div align="center">
+<a href="CODE_OF_CONDUCT.md">
+<img src="https://img.shields.io/badge/📜%20Read%20Guidelines-4169E1?style=for-the-badge&labelColor=000000&color=4169E1&logoColor=white"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+### 🎯 Quick Navigation
 
 <p align="center">
-<a href="https://github.com/speaway/.github/blob/main/CODING_STANDARDS.md">
+<a href="CODING_STANDARDS.md">
   <img src="https://img.shields.io/badge/📋%20Coding%20Standards-Under%20Development-FFA500?style=for-the-badge&labelColor=000000&logoColor=white"/>
 </a>
-<a href="https://github.com/speaway/.github/blob/main/CONTRIBUTING.md">
+<a href="CONTRIBUTING.md">
   <img src="https://img.shields.io/badge/🤝%20Contributing%20Guide-Available-32CD32?style=for-the-badge&labelColor=000000&logoColor=white"/>
 </a>
-<a href="https://github.com/speaway/.github/blob/main/CODE_OF_CONDUCT.md">
-  <img src="https://img.shields.io/badge/📜%20Code%20of%20Conduct-v1.0-4169E1?style=for-the-badge&labelColor=000000&logoColor=white"/>
+<a href="CODE_OF_CONDUCT.md">
+  <img src="https://img.shields.io/badge/🛡️%20Code%20of%20Conduct-v1.0-4169E1?style=for-the-badge&labelColor=000000&logoColor=white"/>
 </a>
 </p>
+
+</div>
 
 </div>
 
