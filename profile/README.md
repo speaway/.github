@@ -58,22 +58,22 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png"/>
+      ⚙️
       <br><b>Services</b>
       <br><i>Complete Portfolio</i>
     </td>
     <td align="center" width="25%">
-      <img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png"/>
+      📦
       <br><b>Projects</b>
       <br><i>Open Source</i>
     </td>
     <td align="center" width="25%">
-      <img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png"/>
+      🤝
       <br><b>Community</b>
       <br><i>Contributing</i>
     </td>
     <td align="center" width="25%">
-      <img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png"/>
+      📞
       <br><b>Support</b>
       <br><i>24/7 Available</i>
     </td>

@@ -40,7 +40,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png"/>
+🎮
 </td>
 <td align="left" width="50%">
 <h3>🎯 Our Mission</h3>
@@ -64,25 +64,25 @@
 <img src="https://img.shields.io/badge/🏆%20200+-FFD700?style=for-the-badge&labelColor=000000&color=FFD700&logoColor=white"/>
 <br><b>🌟 Happy Customers</b>
 <br><i>Satisfied clients worldwide</i>
-<br><img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png"/>
+<br>🤩
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🎫%2010,000+-4169E1?style=for-the-badge&labelColor=000000&color=4169E1&logoColor=white"/>
 <br><b>🚀 Resolved Tickets</b>
 <br><i>Support requests handled</i>
-<br><img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png"/>
+<br>🚀
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/⭐%2096%25-32CD32?style=for-the-badge&labelColor=000000&color=32CD32&logoColor=white"/>
 <br><b>💎 Satisfaction Rate</b>
 <br><i>Customer happiness</i>
-<br><img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png"/>
+<br>💎
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/⚡%20Since%202022-8A2BE2?style=for-the-badge&labelColor=000000&color=8A2BE2&logoColor=white"/>
 <br><b>🔥 Active Service</b>
 <br><i>Years of excellence</i>
-<br><img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png"/>
+<br>🔥
 </td>
 </tr>
 </table>
@@ -101,22 +101,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png"/>
+🖥️
 <br><b>🎨 Custom Plugins</b>
 <br><i>Tailored solutions for your unique needs</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png"/>
+⚙️
 <br><b>🔥 Popular Solutions</b>
 <br><i>Nexo Pro, Vote Pro, Friends Pro</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png"/>
+🔗
 <br><b>🌐 API Integration</b>
 <br><i>Seamless external system connections</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png"/>
+⚡
 <br><b>⚡ Performance</b>
 <br><i>Lightning-fast optimized code</i>
 </td>
@@ -130,22 +130,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png"/>
+🗺️
 <br><b>🌟 High-Quality Maps</b>
 <br><i>Professional design standards</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png"/>
+🌎
 <br><b>🎭 Custom Worlds</b>
 <br><i>Unique concepts and immersive themes</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png"/>
+🏠
 <br><b>🏰 Spawn Areas</b>
 <br><i>Breathtaking entrance experiences</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png"/>
+🎮
 <br><b>🎮 Mini-games</b>
 <br><i>Epic custom game maps</i>
 </td>
@@ -159,22 +159,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png"/>
+🖥️
 <br><b>🚀 Server Setup</b>
 <br><i>Professional installation & configuration</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png"/>
+🚀
 <br><b>⚡ Optimization</b>
 <br><i>Maximum efficiency fine-tuning</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png"/>
+🛡️
 <br><b>🔒 Security</b>
 <br><i>Advanced anti-cheat & protection</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png"/>
+🌐
 <br><b>🌐 Network Config</b>
 <br><i>Expert BungeeCord & Velocity setup</i>
 </td>
@@ -188,22 +188,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png"/>
+🎨
 <br><b>🎯 Logo Design</b>
 <br><i>Stunning custom branding solutions</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png"/>
+🤖
 <br><b>🤖 Discord Bots</b>
 <br><i>Advanced Discord integration systems</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png"/>
+🌐
 <br><b>💻 Web Design</b>
 <br><i>Modern, responsive websites</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png"/>
+✨
 <br><b>✨ Brand Identity</b>
 <br><i>Complete visual identity packages</i>
 </td>
@@ -225,7 +225,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"/>
+🛠️
 <h3>🔧 Developer Tools</h3>
 <p><strong>Professional utility tools and libraries for Minecraft developers</strong></p>
 <ul align="left">
@@ -236,7 +236,7 @@
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png"/>
+📚
 <h3>📚 Documentation</h3>
 <p><strong>Comprehensive guides and documentation projects</strong></p>
 <ul align="left">
@@ -247,7 +247,7 @@
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png"/>
+🎮
 <h3>🎮 Sample Plugins</h3>
 <p><strong>Educational sample plugins and starter templates</strong></p>
 <ul align="left">
@@ -272,22 +272,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png"/>
+🐛
 <br><b>🐛 Issues & Bugs</b>
 <br><i>Help us identify and fix problems</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Twisted%20Rightwards%20Arrows.png"/>
+🔀
 <br><b>🔀 Pull Requests</b>
 <br><i>Contribute amazing code improvements</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png"/>
+📝
 <br><b>📝 Documentation</b>
 <br><i>Help improve our guides & tutorials</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png"/>
+🧪
 <br><b>🧪 Testing</b>
 <br><i>Beta testing & valuable feedback</i>
 </td>
@@ -340,25 +340,25 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png"/>
+🌐
 <br><b>🌐 Website</b>
 <br><a href="https://speaway.com"><strong>speaway.com</strong></a>
 <br><i>Explore our complete portfolio</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png"/>
+💬
 <br><b>💬 Discord</b>
 <br><a href="https://discord.speaway.com"><strong>Community Server</strong></a>
 <br><i>Join our vibrant community</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png"/>
+📧
 <br><b>✉️ Email</b>
 <br><a href="mailto:support@speaway.com"><strong>support@speaway.com</strong></a>
 <br><i>Direct professional support</i>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ticket.png"/>
+🎫
 <br><b>🎫 Support Tickets</b>
 <br><strong>Dashboard System</strong>
 <br><i>Priority support channel</i>
@@ -388,14 +388,14 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gift.png"/>
+🎁
 <br><b>🎁 New Customer Campaign</b>
 <br><img src="https://img.shields.io/badge/Use%20Code-WELCOME20-FF6B6B?style=for-the-badge&labelColor=000000&color=FF6B6B&logoColor=white"/>
 <br><i><strong>Get 20% off your first project!</strong></i>
 <br><small>🌟 Perfect for trying our premium services</small>
 </td>
 <td align="center" width="50%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png"/>
+🤝
 <br><b>🤝 Playnoc Partnership</b>
 <br><img src="https://img.shields.io/badge/Use%20Code-SPEAWAY10-4ECDC4?style=for-the-badge&labelColor=000000&color=4ECDC4&logoColor=white"/>
 <br><i><strong>Special 10% discount for Playnoc customers</strong></i>
@@ -415,7 +415,7 @@
 
 <br>
 
-<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png"/> **Professional Minecraft Solutions Since 2022** <img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png"/>
+✨ **Professional Minecraft Solutions Since 2022** ✨
 
 <br>
 

@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png"/>
+🐛
 <h3>🐛 Bug Reports</h3>
 <p><strong>Help us identify and eliminate issues</strong></p>
 <ul align="left">
@@ -40,7 +40,7 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png"/>
+💡
 <h3>💡 Feature Requests</h3>
 <p><strong>Suggest amazing new features</strong></p>
 <ul align="left">
@@ -51,7 +51,7 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png"/>
+🖥️
 <h3>🔧 Code Contributions</h3>
 <p><strong>Submit incredible code improvements</strong></p>
 <ul align="left">
@@ -62,7 +62,7 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png"/>
+📚
 <h3>📚 Documentation</h3>
 <p><strong>Improve guides and tutorials</strong></p>
 <ul align="left">
@@ -193,27 +193,27 @@ Screenshots, mockups, examples
 <table>
 <tr>
 <td align="center" width="20%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fork%20and%20Knife.png"/>
+🍴
 <br><b>1️⃣ Fork</b>
 <br><i>Fork the repository to your account</i>
 </td>
 <td align="center" width="20%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png"/>
+🔗
 <br><b>2️⃣ Clone</b>
 <br><i>Clone your forked repository</i>
 </td>
 <td align="center" width="20%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Deciduous%20Tree.png"/>
+🌳
 <br><b>3️⃣ Branch</b>
 <br><i>Create an epic feature branch</i>
 </td>
 <td align="center" width="20%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png"/>
+📝
 <br><b>4️⃣ Commit</b>
 <br><i>Make clean, meaningful commits</i>
 </td>
 <td align="center" width="20%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Twisted%20Rightwards%20Arrows.png"/>
+🔀
 <br><b>5️⃣ PR</b>
 <br><i>Open an amazing pull request</i>
 </td>
@@ -264,7 +264,7 @@ git push origin feature/amazing-new-feature
 <table>
 <tr>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hot%20Beverage.png"/>
+☕
 <br><h3>☕ Java Excellence</h3>
 <p><strong>Google Java Style Guide</strong></p>
 <ul align="left">
@@ -275,7 +275,7 @@ git push origin feature/amazing-new-feature
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Yellow%20Circle.png"/>
+🟡
 <br><h3>🟨 JavaScript/TypeScript</h3>
 <p><strong>ESLint + Prettier</strong></p>
 <ul align="left">
@@ -286,7 +286,7 @@ git push origin feature/amazing-new-feature
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png"/>
+🐍
 <br><h3>🐍 Python Perfection</h3>
 <p><strong>PEP 8 Compliance</strong></p>
 <ul align="left">
@@ -368,21 +368,21 @@ type(scope): brief description
 <table>
 <tr>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png"/>
+💬
 <br><b>💬 Discord Community</b>
 <br><a href="https://discord.speaway.com"><strong>Join Our Server</strong></a>
 <br><i>Real-time help & discussions</i>
 <br><small>🌟 24/7 community support</small>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png"/>
+📧
 <br><b>✉️ Direct Email</b>
 <br><a href="mailto:support@speaway.com"><strong>support@speaway.com</strong></a>
 <br><i>Professional development support</i>
 <br><small>💎 Expert guidance available</small>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png"/>
+📚
 <br><b>📚 GitHub Discussions</b>
 <br><strong>Project-specific Help</strong>
 <br><i>Technical discussions & Q&A</i>
@@ -396,22 +396,22 @@ type(scope): brief description
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png"/>
+🏆
 <br><b>🏆 Hall of Fame</b>
 <br><i>Featured in our README</i>
 </td>
 <td align="center" width="25%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png"/>
+👑
 <br><b>👑 VIP Discord Role</b>
 <br><i>Exclusive contributor channel</i>
 </td>
 <td align="center" width="25%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gift.png"/>
+🎁
 <br><b>🎁 Special Rewards</b>
 <br><i>Exclusive contributor perks</i>
 </td>
 <td align="center" width="25%">
-<img height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png"/>
+🏅
 <br><b>🏅 Achievement Badges</b>
 <br><i>Show off your contributions</i>
 </td>
@@ -429,7 +429,7 @@ type(scope): brief description
 
 <br>
 
-<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png"/> **Every contribution matters, no matter how small!** <img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png"/>
+✨ **Every contribution matters, no matter how small!** ✨
 
 <br>
 

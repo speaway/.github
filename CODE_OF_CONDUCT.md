@@ -29,12 +29,12 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img height="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png"/>
+🧑‍🤝‍🧑
 <h3>🌍 Inclusive Community</h3>
 <p>We pledge to make participation in our community a <strong>harassment-free experience</strong> for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.</p>
 </td>
 <td align="center" width="50%">
-<img height="120" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Arrow.png"/>
+💘
 <h3>❤️ Positive Environment</h3>
 <p>We are committed to acting and interacting in ways that contribute to an <strong>open, welcoming, diverse, inclusive, and healthy community</strong>. Every voice matters and every contribution is valued in our shared mission to create amazing Minecraft experiences.</p>
 </td>
@@ -58,7 +58,7 @@
 <td width="50%">
 
 <div align="center">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Circle.png"/>
+🟢
 <h3>🟢 Encouraged Actions</h3>
 </div>
 
@@ -79,7 +79,7 @@
 <td width="50%">
 
 <div align="center">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Circle.png"/>
+🔴
 <h3>🔴 Unacceptable Behavior</h3>
 </div>
 
@@ -113,7 +113,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png"/>
+🛡️
 <h3>🛡️ Protection</h3>
 <p><strong>Community safety is our priority</strong></p>
 <ul align="left">
@@ -124,7 +124,7 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png"/>
+⚖️
 <h3>⚖️ Fairness</h3>
 <p><strong>Equal treatment for everyone</strong></p>
 <ul align="left">
@@ -135,7 +135,7 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png"/>
+📝
 <h3>📝 Transparency</h3>
 <p><strong>Open enforcement process</strong></p>
 <ul align="left">
@@ -146,7 +146,7 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Growing%20Heart.png"/>
+💚
 <h3>💚 Growth</h3>
 <p><strong>Learning and improvement focus</strong></p>
 <ul align="left">
@@ -182,7 +182,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 </tr>
 <tr>
 <td align="center">
-<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Yellow%20Circle.png"/>
+🟡
 <br><b>🟡 Level 1</b>
 <br><i>Minor Issues</i>
 </td>
@@ -204,12 +204,12 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <b>⏰ Immediate</b>
 <br><i>Educational focus</i>
 <br>
-<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png"/>
+📚
 </td>
 </tr>
 <tr>
 <td align="center">
-<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Circle.png"/>
+🟠
 <br><b>🟠 Level 2</b>
 <br><i>Moderate Issues</i>
 </td>
@@ -231,12 +231,12 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <b>🕐 1-7 Days</b>
 <br><i>Corrective action</i>
 <br>
-<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Warning.png"/>
+⚠️
 </td>
 </tr>
 <tr>
 <td align="center">
-<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Circle.png"/>
+🔴
 <br><b>🔴 Level 3</b>
 <br><i>Serious Issues</i>
 </td>
@@ -258,12 +258,12 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <b>📅 1-30 Days</b>
 <br><i>Serious consequences</i>
 <br>
-<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/No%20Entry.png"/>
+🚫
 </td>
 </tr>
 <tr>
 <td align="center">
-<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Circle.png"/>
+⚫
 <br><b>⚫ Level 4</b>
 <br><i>Severe Issues</i>
 </td>
@@ -285,7 +285,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <b>♾️ Permanent</b>
 <br><i>Final action</i>
 <br>
-<img height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cross%20Mark.png"/>
+❌
 </td>
 </tr>
 </table>
@@ -303,7 +303,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <table>
 <tr>
 <td align="center" width="33%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Europe-Africa.png"/>
+🌍
 <h3>🌍 Digital Spaces</h3>
 <p><strong>All our online platforms</strong></p>
 <ul align="left">
@@ -315,7 +315,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png"/>
+🏢
 <h3>🏢 Professional Context</h3>
 <p><strong>Representing Speaway</strong></p>
 <ul align="left">
@@ -327,7 +327,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png"/>
+🛡️
 <h3>🛡️ Protection Coverage</h3>
 <p><strong>Comprehensive safety net</strong></p>
 <ul align="left">
@@ -358,28 +358,28 @@ This Code of Conduct applies within all community spaces, and also applies when 
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png"/>
+📧
 <br><b>📧 Email Report</b>
 <br><a href="mailto:conduct@speaway.com"><strong>conduct@speaway.com</strong></a>
 <br><i>Confidential & secure</i>
 <br><small>🔒 24-48 hour response</small>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png"/>
+💬
 <br><b>💬 Discord DM</b>
 <br><strong>Contact any Admin</strong>
 <br><i>Real-time support</i>
 <br><small>⚡ Immediate response</small>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png"/>
+📱
 <br><b>📞 Emergency Line</b>
 <br><strong>For urgent situations</strong>
 <br><i>Serious violations only</i>
 <br><small>🚨 Available 24/7</small>
 </td>
 <td align="center" width="25%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png"/>
+📄
 <br><b>📝 Anonymous Form</b>
 <br><strong>Web-based reporting</strong>
 <br><i>Complete anonymity</i>
@@ -394,7 +394,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 <tr>
 <td align="center" width="50%">
 <div align="center">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png"/>
+👑
 <h3>👑 Leadership Team</h3>
 </div>
 
@@ -412,7 +412,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 </td>
 <td align="center" width="50%">
 <div align="center">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Ribbon.png"/>
+💝
 <h3>💝 Support Resources</h3>
 </div>
 
@@ -444,21 +444,21 @@ This Code of Conduct applies within all community spaces, and also applies when 
 <table>
 <tr>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png"/>
+✨
 <br><b>✨ Positive Culture</b>
 <br><strong>Celebrating Excellence</strong>
 <br><i>Recognizing great contributions</i>
 <br><small>🏆 Achievement celebrations</small>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Growing%20Heart.png"/>
+💚
 <br><b>💚 Continuous Learning</b>
 <br><strong>Educational Approach</strong>
 <br><i>Growth through understanding</i>
 <br><small>📚 Learning opportunities</small>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png"/>
+🤝
 <br><b>🤝 Collaborative Spirit</b>
 <br><strong>Working Together</strong>
 <br><i>Shared goals and values</i>
@@ -480,7 +480,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 <br>
 
-<img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Arrow.png"/> **Together, we create magic in the Minecraft universe!** <img height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20with%20Arrow.png"/>
+💘 **Together, we create magic in the Minecraft universe!** 💘
 
 <br>
 
