@@ -26,12 +26,6 @@
 
 <br>
 
-<!-- Organization Achievement Stats -->
-<img width="49%" src="https://img.shields.io/badge/🏆_Organization_Founded-2022-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
-<img width="49%" src="https://img.shields.io/badge/⭐_Happy_Clients-200+-FFD700?style=for-the-badge&labelColor=0D1117&color=FFD700"/>
-
-<img width="49%" src="https://img.shields.io/badge/🚀_Projects_Completed-150+-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B"/>
-<img width="49%" src="https://img.shields.io/badge/💎_Success_Rate-96%25-32CD32?style=for-the-badge&labelColor=0D1117&color=32CD32"/>
 
 </div>
 
