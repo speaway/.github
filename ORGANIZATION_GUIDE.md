@@ -1,207 +1,153 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Speaway%20Organization&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Complete%20Organization%20Guide&descAlignY=55&descAlign=center"/>
+# Speaway Organization
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=28&center=true&vCenter=true&width=800&lines=🎮+Professional+Minecraft+Solutions;🚀+Custom+Plugins+%26+Maps;⚡+Server+Optimization+%26+Security;🌟+Open+Source+Development;💎+Since+2022+-+200%2B+Happy+Customers" alt="Typing Animation"/>
+**Professional Minecraft Solutions & Open Source Development**
 
-<br><br>
-
-<!-- Premium Badges -->
-<a href="https://speaway.com">
-  <img src="https://img.shields.io/badge/🌐_Website-speaway.com-4285F4?style=for-the-badge&labelColor=000000&color=4285F4"/>
-</a>
-<a href="https://discord.speaway.com">
-  <img src="https://img.shields.io/badge/💬_Discord-Community-5865F2?style=for-the-badge&labelColor=000000&color=5865F2"/>
-</a>
-<a href="mailto:support@speaway.com">
-  <img src="https://img.shields.io/badge/✉️_Email-Support-EA4335?style=for-the-badge&labelColor=000000&color=EA4335"/>
-</a>
-
-<br><br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-</div>
-
-## 🌟 About Us
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<img height="120" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png"/>
-</td>
-<td align="left" width="50%">
-<h3>🎯 Our Mission</h3>
-<p><i>To elevate the gaming experience by providing high-quality, customizable, and reliable solutions for Minecraft server owners and developers.</i></p>
-<p><b>Speaway</b> has been providing professional solutions in the Minecraft ecosystem since <b>2022</b>. We develop custom plugins, maps, server optimizations, and security solutions for all Minecraft platforms except Bedrock Edition.</p>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Achievement Stats -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=📊%20Our%20Achievements&fontSize=24&fontColor=fff&fontAlignY=38"/>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏆-200+-FFD700?style=for-the-badge&labelColor=000000&color=FFD700"/>
-<br><b>Happy Customers</b>
-<br><i>Satisfied clients worldwide</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎫-10,000+-4169E1?style=for-the-badge&labelColor=000000&color=4169E1"/>
-<br><b>Resolved Tickets</b>
-<br><i>Support requests handled</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⭐-96%25-32CD32?style=for-the-badge&labelColor=000000&color=32CD32"/>
-<br><b>Satisfaction Rate</b>
-<br><i>Customer happiness</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡-Since_2022-8A2BE2?style=for-the-badge&labelColor=000000&color=8A2BE2"/>
-<br><b>Active Service</b>
-<br><i>Years of experience</i>
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
----
-
-## ⚡ Our Services
-
-<div align="center">
-
-### 🔌 Plugin Development
-<table>
-<tr>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>Custom Plugins</b>
-<br><i>Tailored solutions</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png"/>
-<br><b>Popular Solutions</b>
-<br><i>Nexo Pro, Vote Pro</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>API Integration</b>
-<br><i>External systems</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
-<br><b>Performance</b>
-<br><i>Optimized code</i>
-</td>
-</tr>
-</table>
-
-### 🗺️ Map Design
-<table>
-<tr>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/854/854878.png"/>
-<br><b>High-Quality Maps</b>
-<br><i>Professional standards</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/854/854929.png"/>
-<br><b>Custom Worlds</b>
-<br><i>Unique concepts</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>Spawn Areas</b>
-<br><i>Impressive entrances</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png"/>
-<br><b>Mini-games</b>
-<br><i>Custom maps</i>
-</td>
-</tr>
-</table>
-
-### 🛡️ Server Management
-<table>
-<tr>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>Server Setup</b>
-<br><i>Professional config</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
-<br><b>Optimization</b>
-<br><i>Maximum efficiency</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>Security</b>
-<br><i>Anti-cheat systems</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png"/>
-<br><b>Network Config</b>
-<br><i>BungeeCord/Velocity</i>
-</td>
-</tr>
-</table>
-
-### 🎨 Design Services
-<table>
-<tr>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/854/854878.png"/>
-<br><b>Logo Design</b>
-<br><i>Custom branding</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png"/>
-<br><b>Discord Bots</b>
-<br><i>Advanced integration</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/854/854929.png"/>
-<br><b>Web Design</b>
-<br><i>Modern websites</i>
-</td>
-<td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>Brand Identity</b>
-<br><i>Visual consistency</i>
-</td>
-</tr>
-</table>
+[![Website](https://img.shields.io/badge/Website-speaway.com-4285F4?style=for-the-badge&labelColor=000000)](https://speaway.com)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&labelColor=000000)](https://discord.speaway.com)
+[![Email](https://img.shields.io/badge/Email-Support-EA4335?style=for-the-badge&labelColor=000000)](mailto:support@speaway.com)
 
 </div>
 
 ---
 
-## 📦 Our Open Source Projects
+## About Us
+
+**Speaway** has been providing professional solutions in the Minecraft ecosystem since **2022**. We develop custom plugins, maps, server optimizations, and security solutions for all Minecraft platforms except Bedrock Edition.
+
+### Our Mission
+To elevate the gaming experience by providing high-quality, customizable, and reliable solutions for Minecraft server owners and developers.
+
+### Our Achievements
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🔧%20Developer%20Tools%20%7C%20📚%20Documentation%20%7C%20🎮%20Sample%20Plugins&fontSize=20&fontColor=fff&fontAlignY=38"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/200+-FFD700?style=for-the-badge&labelColor=000000"/>
+<br><strong>Happy Customers</strong>
+<br><em>Satisfied clients worldwide</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/10,000+-4169E1?style=for-the-badge&labelColor=000000"/>
+<br><strong>Resolved Tickets</strong>
+<br><em>Support requests handled</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/96%25-32CD32?style=for-the-badge&labelColor=000000"/>
+<br><strong>Satisfaction Rate</strong>
+<br><em>Customer happiness</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Since_2022-8A2BE2?style=for-the-badge&labelColor=000000"/>
+<br><strong>Active Service</strong>
+<br><em>Years of experience</em>
+</td>
+</tr>
+</table>
 </div>
+
+---
+
+## Our Services
+
+### Plugin Development
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>Custom Plugins</strong>
+<br><em>Tailored solutions for your server needs</em>
+</td>
+<td align="center" width="25%">
+<strong>Popular Solutions</strong>
+<br><em>Nexo Pro, Vote Pro, Friends Pro</em>
+</td>
+<td align="center" width="25%">
+<strong>API Integration</strong>
+<br><em>Connect with external systems</em>
+</td>
+<td align="center" width="25%">
+<strong>Performance</strong>
+<br><em>Optimized code architecture</em>
+</td>
+</tr>
+</table>
+
+### Map Design
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>High-Quality Maps</strong>
+<br><em>Professional design standards</em>
+</td>
+<td align="center" width="25%">
+<strong>Custom Worlds</strong>
+<br><em>Unique concepts and themes</em>
+</td>
+<td align="center" width="25%">
+<strong>Spawn Areas</strong>
+<br><em>Impressive entrance experiences</em>
+</td>
+<td align="center" width="25%">
+<strong>Mini-games</strong>
+<br><em>Custom map designs</em>
+</td>
+</tr>
+</table>
+
+### Server Management
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>Server Setup</strong>
+<br><em>Professional installation & config</em>
+</td>
+<td align="center" width="25%">
+<strong>Optimization</strong>
+<br><em>Maximum efficiency tuning</em>
+</td>
+<td align="center" width="25%">
+<strong>Security</strong>
+<br><em>Anti-cheat & protection systems</em>
+</td>
+<td align="center" width="25%">
+<strong>Network Config</strong>
+<br><em>BungeeCord & Velocity setup</em>
+</td>
+</tr>
+</table>
+
+### Design Services
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>Logo Design</strong>
+<br><em>Custom branding solutions</em>
+</td>
+<td align="center" width="25%">
+<strong>Discord Bots</strong>
+<br><em>Advanced Discord integration</em>
+</td>
+<td align="center" width="25%">
+<strong>Web Design</strong>
+<br><em>Modern, functional websites</em>
+</td>
+<td align="center" width="25%">
+<strong>Brand Identity</strong>
+<br><em>Consistent visual identity</em>
+</td>
+</tr>
+</table>
+
+---
+
+## Open Source Projects
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img height="80" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<h3>🔧 Developer Tools</h3>
+<h3>Developer Tools</h3>
 <p>Utility tools and libraries for Minecraft developers</p>
 <ul align="left">
 <li>Configuration managers</li>
@@ -210,8 +156,7 @@
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://cdn-icons-png.flaticon.com/512/854/854878.png"/>
-<h3>📚 Documentation</h3>
+<h3>Documentation</h3>
 <p>Comprehensive guides and documentation projects</p>
 <ul align="left">
 <li>Plugin development guides</li>
@@ -220,8 +165,7 @@
 </ul>
 </td>
 <td align="center" width="33%">
-<img height="80" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png"/>
-<h3>🎮 Sample Plugins</h3>
+<h3>Sample Plugins</h3>
 <p>Educational sample plugins and starter templates</p>
 <ul align="left">
 <li>Beginner-friendly examples</li>
@@ -234,144 +178,119 @@
 
 ---
 
-## 🤝 Community & Contributing
+## Community & Contributing
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=💡%20How%20You%20Can%20Contribute&fontSize=24&fontColor=fff&fontAlignY=38"/>
+### How You Can Contribute
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>🐛 Issues</b>
-<br><i>Bug reports & suggestions</i>
+<strong>Issues</strong>
+<br><em>Bug reports & feature suggestions</em>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png"/>
-<br><b>🔀 Pull Requests</b>
-<br><i>Code contributions</i>
+<strong>Pull Requests</strong>
+<br><em>Code contributions & improvements</em>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/854/854878.png"/>
-<br><b>📝 Documentation</b>
-<br><i>Updates & improvements</i>
+<strong>Documentation</strong>
+<br><em>Updates & improvements</em>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
-<br><b>🧪 Testing</b>
-<br><i>Beta testing & feedback</i>
+<strong>Testing</strong>
+<br><em>Beta testing & feedback</em>
 </td>
 </tr>
 </table>
 
-### 🔗 Developer Resources
+### Developer Resources
 
-<a href="https://github.com/speaway/.github/blob/main/CODING_STANDARDS.md">
-  <img src="https://img.shields.io/badge/📋_Coding_Standards-Under_Development-FFA500?style=for-the-badge&labelColor=000000"/>
-</a>
-<a href="https://github.com/speaway/.github/blob/main/CONTRIBUTING.md">
-  <img src="https://img.shields.io/badge/🤝_Contributing_Guide-Available-32CD32?style=for-the-badge&labelColor=000000"/>
-</a>
-<a href="https://github.com/speaway/.github/blob/main/CODE_OF_CONDUCT.md">
-  <img src="https://img.shields.io/badge/📜_Code_of_Conduct-v1.0-4169E1?style=for-the-badge&labelColor=000000"/>
-</a>
+<div align="center">
+
+[![Coding Standards](https://img.shields.io/badge/Coding_Standards-Under_Development-FFA500?style=for-the-badge&labelColor=000000)](https://github.com/speaway/.github/blob/main/CODING_STANDARDS.md)
+[![Contributing Guide](https://img.shields.io/badge/Contributing_Guide-Available-32CD32?style=for-the-badge&labelColor=000000)](https://github.com/speaway/.github/blob/main/CONTRIBUTING.md)
+[![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-v1.0-4169E1?style=for-the-badge&labelColor=000000)](https://github.com/speaway/.github/blob/main/CODE_OF_CONDUCT.md)
 
 </div>
 
 ---
 
-## 🌐 Our Clients
+## Our Clients
+
+**Trusted by successful Minecraft servers:**
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🌟%20Trusted%20by%20Successful%20Minecraft%20Servers&fontSize=22&fontColor=fff&fontAlignY=38"/>
 
-<br>
+![Melonya](https://img.shields.io/badge/Melonya-Verified_Client-success?style=for-the-badge&labelColor=000000)
+![Provanas](https://img.shields.io/badge/Provanas-Verified_Client-success?style=for-the-badge&labelColor=000000)
+![KnightNW](https://img.shields.io/badge/KnightNW-Verified_Client-success?style=for-the-badge&labelColor=000000)
 
-<img src="https://img.shields.io/badge/Melonya-Verified_Client-success?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Provanas-Verified_Client-success?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/KnightNW-Verified_Client-success?style=for-the-badge&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/RebornCraft-Verified_Client-success?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CraftLime-Verified_Client-success?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ChickenNW-Verified_Client-success?style=for-the-badge&labelColor=000000"/>
+![RebornCraft](https://img.shields.io/badge/RebornCraft-Verified_Client-success?style=for-the-badge&labelColor=000000)
+![CraftLime](https://img.shields.io/badge/CraftLime-Verified_Client-success?style=for-the-badge&labelColor=000000)
+![ChickenNW](https://img.shields.io/badge/ChickenNW-Verified_Client-success?style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## 📞 Contact & Support
-
-<div align="center">
+## Contact & Support
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/854/854929.png"/>
-<br><b>🌐 Website</b>
+<strong>Website</strong>
 <br><a href="https://speaway.com">speaway.com</a>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png"/>
-<br><b>💬 Discord</b>
+<strong>Discord</strong>
 <br><a href="https://discord.speaway.com">Community Server</a>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/854/854878.png"/>
-<br><b>✉️ Email</b>
+<strong>Email</strong>
 <br><a href="mailto:support@speaway.com">support@speaway.com</a>
 </td>
 <td align="center" width="25%">
-<img height="64" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/>
-<br><b>🎫 Tickets</b>
+<strong>Support Tickets</strong>
 <br>Dashboard System
 </td>
 </tr>
 </table>
 
-### ⏰ Support Hours
+### Support Hours
 
-<img src="https://img.shields.io/badge/📞_Ticket_Response-Within_24h-4169E1?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/💬_Discord_Support-24/7_Community-32CD32?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🚨_Emergencies-Priority_Support-FF4500?style=for-the-badge&labelColor=000000"/>
+<div align="center">
+
+![Ticket Response](https://img.shields.io/badge/Ticket_Response-Within_24h-4169E1?style=for-the-badge&labelColor=000000)
+![Discord Support](https://img.shields.io/badge/Discord_Support-24/7_Community-32CD32?style=for-the-badge&labelColor=000000)
+![Emergencies](https://img.shields.io/badge/Emergencies-Priority_Support-FF4500?style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## 🎉 Special Offers
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=💰%20Limited%20Time%20Offers&fontSize=24&fontColor=fff&fontAlignY=38"/>
-
-<br><br>
+## Special Offers
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img height="80" src="https://cdn-icons-png.flaticon.com/512/854/854878.png"/>
-<br><b>🎁 New Customer Campaign</b>
-<br><img src="https://img.shields.io/badge/Use_Code-WELCOME20-FF6B6B?style=for-the-badge&labelColor=000000"/>
-<br><i>Get 20% off your first project!</i>
+<strong>New Customer Campaign</strong>
+<br>![Use Code WELCOME20](https://img.shields.io/badge/Use_Code-WELCOME20-FF6B6B?style=for-the-badge&labelColor=000000)
+<br><em>Get 20% off your first project!</em>
 </td>
 <td align="center" width="50%">
-<img height="80" src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png"/>
-<br><b>🤝 Playnoc Partnership</b>
-<br><img src="https://img.shields.io/badge/Use_Code-SPEAWAY10-4ECDC4?style=for-the-badge&labelColor=000000"/>
-<br><i>Special 10% discount for Playnoc customers</i>
+<strong>Playnoc Partnership</strong>
+<br>![Use Code SPEAWAY10](https://img.shields.io/badge/Use_Code-SPEAWAY10-4ECDC4?style=for-the-badge&labelColor=000000)
+<br><em>Special 10% discount for Playnoc customers</em>
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
+---
 
 <div align="center">
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=⭐%20Don't%20forget%20to%20star%20our%20repositories!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+**Professional Minecraft Solutions Since 2022**
 
-<p><b>Professional Minecraft Solutions Since 2022</b></p>
-<p><i>Made with ❤️ by Speaway Team</i></p>
+*Made with ❤️ by Speaway Team*
 
 </div>
