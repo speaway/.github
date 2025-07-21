@@ -98,22 +98,18 @@
 <table>
 <tr>
 <td align="center" width="25%">
-🖥️
 <br><b>🎨 Custom Plugins</b>
 <br><i>Tailored solutions for your unique needs</i>
 </td>
 <td align="center" width="25%">
-⚙️
 <br><b>🔥 Popular Solutions</b>
 <br><i>Nexo Pro, Vote Pro, Friends Pro</i>
 </td>
 <td align="center" width="25%">
-🔗
 <br><b>🌐 API Integration</b>
 <br><i>Seamless external system connections</i>
 </td>
 <td align="center" width="25%">
-⚡
 <br><b>⚡ Performance</b>
 <br><i>Lightning-fast optimized code</i>
 </td>
@@ -127,22 +123,18 @@
 <table>
 <tr>
 <td align="center" width="25%">
-🗺️
 <br><b>🌟 High-Quality Maps</b>
 <br><i>Professional design standards</i>
 </td>
 <td align="center" width="25%">
-🌎
 <br><b>🎭 Custom Worlds</b>
 <br><i>Unique concepts and immersive themes</i>
 </td>
 <td align="center" width="25%">
-🏠
 <br><b>🏰 Spawn Areas</b>
 <br><i>Breathtaking entrance experiences</i>
 </td>
 <td align="center" width="25%">
-🎮
 <br><b>🎮 Mini-games</b>
 <br><i>Epic custom game maps</i>
 </td>
@@ -156,22 +148,18 @@
 <table>
 <tr>
 <td align="center" width="25%">
-🖥️
 <br><b>🚀 Server Setup</b>
 <br><i>Professional installation & configuration</i>
 </td>
 <td align="center" width="25%">
-🚀
 <br><b>⚡ Optimization</b>
 <br><i>Maximum efficiency fine-tuning</i>
 </td>
 <td align="center" width="25%">
-🛡️
 <br><b>🔒 Security</b>
 <br><i>Advanced anti-cheat & protection</i>
 </td>
 <td align="center" width="25%">
-🌐
 <br><b>🌐 Network Config</b>
 <br><i>Expert BungeeCord & Velocity setup</i>
 </td>
@@ -185,22 +173,18 @@
 <table>
 <tr>
 <td align="center" width="25%">
-🎨
 <br><b>🎯 Logo Design</b>
 <br><i>Stunning custom branding solutions</i>
 </td>
 <td align="center" width="25%">
-🤖
 <br><b>🤖 Discord Bots</b>
 <br><i>Advanced Discord integration systems</i>
 </td>
 <td align="center" width="25%">
-🌐
 <br><b>💻 Web Design</b>
 <br><i>Modern, responsive websites</i>
 </td>
 <td align="center" width="25%">
-✨
 <br><b>✨ Brand Identity</b>
 <br><i>Complete visual identity packages</i>
 </td>
